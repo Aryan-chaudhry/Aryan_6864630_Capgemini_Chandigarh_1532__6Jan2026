@@ -1,0 +1,14 @@
+C:\Practice\Factory Robot Hazard Analyzer\bin\Debug\net10.0\Factory Robot Hazard Analyzer.exe
+C:\Practice\Factory Robot Hazard Analyzer\bin\Debug\net10.0\Factory Robot Hazard Analyzer.deps.json
+C:\Practice\Factory Robot Hazard Analyzer\bin\Debug\net10.0\Factory Robot Hazard Analyzer.runtimeconfig.json
+C:\Practice\Factory Robot Hazard Analyzer\bin\Debug\net10.0\Factory Robot Hazard Analyzer.dll
+C:\Practice\Factory Robot Hazard Analyzer\bin\Debug\net10.0\Factory Robot Hazard Analyzer.pdb
+C:\Practice\Factory Robot Hazard Analyzer\obj\Debug\net10.0\Factory Robot Hazard Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\Factory Robot Hazard Analyzer\obj\Debug\net10.0\Factory Robot Hazard Analyzer.AssemblyInfoInputs.cache
+C:\Practice\Factory Robot Hazard Analyzer\obj\Debug\net10.0\Factory Robot Hazard Analyzer.AssemblyInfo.cs
+C:\Practice\Factory Robot Hazard Analyzer\obj\Debug\net10.0\Factory Robot Hazard Analyzer.csproj.CoreCompileInputs.cache
+C:\Practice\Factory Robot Hazard Analyzer\obj\Debug\net10.0\Factory Robot Hazard Analyzer.dll
+C:\Practice\Factory Robot Hazard Analyzer\obj\Debug\net10.0\refint\Factory Robot Hazard Analyzer.dll
+C:\Practice\Factory Robot Hazard Analyzer\obj\Debug\net10.0\Factory Robot Hazard Analyzer.pdb
+C:\Practice\Factory Robot Hazard Analyzer\obj\Debug\net10.0\Factory Robot Hazard Analyzer.genruntimeconfig.cache
+C:\Practice\Factory Robot Hazard Analyzer\obj\Debug\net10.0\ref\Factory Robot Hazard Analyzer.dll
