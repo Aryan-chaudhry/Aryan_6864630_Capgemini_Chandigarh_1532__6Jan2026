@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Day11_20jan2026\\ScoringSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEAF39A3-415A-4984-B728-AA42393F20C7}|ScoringSystem.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\day11_20jan2026\\scoringsystem\\studentmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEAF39A3-415A-4984-B728-AA42393F20C7}|ScoringSystem.csproj|solutionrelative:studentmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEAF39A3-415A-4984-B728-AA42393F20C7}|ScoringSystem.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\day11_20jan2026\\scoringsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEAF39A3-415A-4984-B728-AA42393F20C7}|ScoringSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "studentMarks.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Day11_20jan2026\\ScoringSystem\\studentMarks.cs",
+              "RelativeDocumentMoniker": "studentMarks.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Day11_20jan2026\\ScoringSystem\\studentMarks.cs",
+              "RelativeToolTip": "studentMarks.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:36:36.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Day11_20jan2026\\ScoringSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Day11_20jan2026\\ScoringSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T08:33:51.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

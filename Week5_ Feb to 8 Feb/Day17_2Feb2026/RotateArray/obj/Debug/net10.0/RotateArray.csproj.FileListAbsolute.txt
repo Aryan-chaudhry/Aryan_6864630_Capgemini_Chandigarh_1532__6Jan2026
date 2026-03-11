@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\RotateArray\bin\Debug\net10.0\RotateArray.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\RotateArray\bin\Debug\net10.0\RotateArray.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\RotateArray\bin\Debug\net10.0\RotateArray.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\RotateArray\bin\Debug\net10.0\RotateArray.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\RotateArray\bin\Debug\net10.0\RotateArray.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\RotateArray\obj\Debug\net10.0\RotateArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\RotateArray\obj\Debug\net10.0\RotateArray.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\RotateArray\obj\Debug\net10.0\RotateArray.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\RotateArray\obj\Debug\net10.0\RotateArray.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\RotateArray\obj\Debug\net10.0\RotateArray.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\RotateArray\obj\Debug\net10.0\refint\RotateArray.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\RotateArray\obj\Debug\net10.0\RotateArray.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\RotateArray\obj\Debug\net10.0\RotateArray.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\RotateArray\obj\Debug\net10.0\ref\RotateArray.dll

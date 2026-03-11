@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\FirstNonRepeating\bin\Debug\net10.0\FirstNonRepeating.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\FirstNonRepeating\bin\Debug\net10.0\FirstNonRepeating.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\FirstNonRepeating\bin\Debug\net10.0\FirstNonRepeating.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\FirstNonRepeating\bin\Debug\net10.0\FirstNonRepeating.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\FirstNonRepeating\bin\Debug\net10.0\FirstNonRepeating.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\FirstNonRepeating\obj\Debug\net10.0\FirstNonRepeating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\FirstNonRepeating\obj\Debug\net10.0\FirstNonRepeating.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\FirstNonRepeating\obj\Debug\net10.0\FirstNonRepeating.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\FirstNonRepeating\obj\Debug\net10.0\FirstNonRepeating.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\FirstNonRepeating\obj\Debug\net10.0\FirstNonRepeating.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\FirstNonRepeating\obj\Debug\net10.0\refint\FirstNonRepeating.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\FirstNonRepeating\obj\Debug\net10.0\FirstNonRepeating.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\FirstNonRepeating\obj\Debug\net10.0\FirstNonRepeating.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\FirstNonRepeating\obj\Debug\net10.0\ref\FirstNonRepeating.dll

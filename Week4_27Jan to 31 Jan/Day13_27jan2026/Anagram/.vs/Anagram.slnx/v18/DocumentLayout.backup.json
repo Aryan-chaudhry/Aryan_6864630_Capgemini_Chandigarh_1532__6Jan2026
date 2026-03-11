@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Day13_27jan2026\\Anagram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E880BF5-9632-4AD2-8BB1-2E8191F5D814}|Anagram.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\day13_27jan2026\\anagram\\checkanagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E880BF5-9632-4AD2-8BB1-2E8191F5D814}|Anagram.csproj|solutionrelative:checkanagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E880BF5-9632-4AD2-8BB1-2E8191F5D814}|Anagram.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\day13_27jan2026\\anagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E880BF5-9632-4AD2-8BB1-2E8191F5D814}|Anagram.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 267,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "checkAnagram.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Day13_27jan2026\\Anagram\\checkAnagram.cs",
+              "RelativeDocumentMoniker": "checkAnagram.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Day13_27jan2026\\Anagram\\checkAnagram.cs*",
+              "RelativeToolTip": "checkAnagram.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T08:34:59.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Day13_27jan2026\\Anagram\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Day13_27jan2026\\Anagram\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T08:34:03.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 133,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

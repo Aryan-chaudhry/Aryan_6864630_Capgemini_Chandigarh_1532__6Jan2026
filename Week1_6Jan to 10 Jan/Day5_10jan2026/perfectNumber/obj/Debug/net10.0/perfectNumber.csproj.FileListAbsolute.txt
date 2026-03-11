@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\perfectNumber\bin\Debug\net10.0\perfectNumber.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\perfectNumber\bin\Debug\net10.0\perfectNumber.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\perfectNumber\bin\Debug\net10.0\perfectNumber.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\perfectNumber\bin\Debug\net10.0\perfectNumber.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\perfectNumber\bin\Debug\net10.0\perfectNumber.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\perfectNumber\obj\Debug\net10.0\perfectNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\perfectNumber\obj\Debug\net10.0\perfectNumber.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\perfectNumber\obj\Debug\net10.0\perfectNumber.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\perfectNumber\obj\Debug\net10.0\perfectNumber.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\perfectNumber\obj\Debug\net10.0\perfectNumber.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\perfectNumber\obj\Debug\net10.0\refint\perfectNumber.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\perfectNumber\obj\Debug\net10.0\perfectNumber.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\perfectNumber\obj\Debug\net10.0\perfectNumber.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\perfectNumber\obj\Debug\net10.0\ref\perfectNumber.dll

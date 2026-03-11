@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\BuyAndSellStock\bin\Debug\net10.0\BuyAndSellStock.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\BuyAndSellStock\bin\Debug\net10.0\BuyAndSellStock.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\BuyAndSellStock\bin\Debug\net10.0\BuyAndSellStock.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\BuyAndSellStock\bin\Debug\net10.0\BuyAndSellStock.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\BuyAndSellStock\bin\Debug\net10.0\BuyAndSellStock.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\BuyAndSellStock\obj\Debug\net10.0\BuyAndSellStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\BuyAndSellStock\obj\Debug\net10.0\BuyAndSellStock.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\BuyAndSellStock\obj\Debug\net10.0\BuyAndSellStock.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\BuyAndSellStock\obj\Debug\net10.0\BuyAndSellStock.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\BuyAndSellStock\obj\Debug\net10.0\BuyAndSellStock.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\BuyAndSellStock\obj\Debug\net10.0\refint\BuyAndSellStock.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\BuyAndSellStock\obj\Debug\net10.0\BuyAndSellStock.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\BuyAndSellStock\obj\Debug\net10.0\BuyAndSellStock.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\BuyAndSellStock\obj\Debug\net10.0\ref\BuyAndSellStock.dll

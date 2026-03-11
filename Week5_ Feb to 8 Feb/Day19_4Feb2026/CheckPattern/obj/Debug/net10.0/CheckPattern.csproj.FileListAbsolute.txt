@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\CheckPattern\bin\Debug\net10.0\CheckPattern.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\CheckPattern\bin\Debug\net10.0\CheckPattern.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\CheckPattern\bin\Debug\net10.0\CheckPattern.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\CheckPattern\bin\Debug\net10.0\CheckPattern.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\CheckPattern\bin\Debug\net10.0\CheckPattern.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\CheckPattern\obj\Debug\net10.0\CheckPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\CheckPattern\obj\Debug\net10.0\CheckPattern.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\CheckPattern\obj\Debug\net10.0\CheckPattern.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\CheckPattern\obj\Debug\net10.0\CheckPattern.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\CheckPattern\obj\Debug\net10.0\CheckPattern.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\CheckPattern\obj\Debug\net10.0\refint\CheckPattern.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\CheckPattern\obj\Debug\net10.0\CheckPattern.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\CheckPattern\obj\Debug\net10.0\CheckPattern.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\CheckPattern\obj\Debug\net10.0\ref\CheckPattern.dll

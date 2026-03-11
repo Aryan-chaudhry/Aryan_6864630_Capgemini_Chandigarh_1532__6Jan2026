@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\GreaterNumberInArray\bin\Debug\net10.0\GreaterNumberInArray.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\GreaterNumberInArray\bin\Debug\net10.0\GreaterNumberInArray.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\GreaterNumberInArray\bin\Debug\net10.0\GreaterNumberInArray.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\GreaterNumberInArray\bin\Debug\net10.0\GreaterNumberInArray.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\GreaterNumberInArray\bin\Debug\net10.0\GreaterNumberInArray.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\GreaterNumberInArray\obj\Debug\net10.0\GreaterNumberInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\GreaterNumberInArray\obj\Debug\net10.0\GreaterNumberInArray.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\GreaterNumberInArray\obj\Debug\net10.0\GreaterNumberInArray.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\GreaterNumberInArray\obj\Debug\net10.0\GreaterNumberInArray.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\GreaterNumberInArray\obj\Debug\net10.0\GreaterNumberInArray.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\GreaterNumberInArray\obj\Debug\net10.0\refint\GreaterNumberInArray.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\GreaterNumberInArray\obj\Debug\net10.0\GreaterNumberInArray.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\GreaterNumberInArray\obj\Debug\net10.0\GreaterNumberInArray.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\GreaterNumberInArray\obj\Debug\net10.0\ref\GreaterNumberInArray.dll

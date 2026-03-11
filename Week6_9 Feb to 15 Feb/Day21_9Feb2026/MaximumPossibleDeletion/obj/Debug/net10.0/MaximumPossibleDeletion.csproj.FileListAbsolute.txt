@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\MaximumPossibleDeletion\bin\Debug\net10.0\MaximumPossibleDeletion.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\MaximumPossibleDeletion\bin\Debug\net10.0\MaximumPossibleDeletion.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\MaximumPossibleDeletion\bin\Debug\net10.0\MaximumPossibleDeletion.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\MaximumPossibleDeletion\bin\Debug\net10.0\MaximumPossibleDeletion.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\MaximumPossibleDeletion\bin\Debug\net10.0\MaximumPossibleDeletion.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\MaximumPossibleDeletion\obj\Debug\net10.0\MaximumPossibleDeletion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\MaximumPossibleDeletion\obj\Debug\net10.0\MaximumPossibleDeletion.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\MaximumPossibleDeletion\obj\Debug\net10.0\MaximumPossibleDeletion.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\MaximumPossibleDeletion\obj\Debug\net10.0\MaximumPossibleDeletion.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\MaximumPossibleDeletion\obj\Debug\net10.0\MaximumPossibleDeletion.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\MaximumPossibleDeletion\obj\Debug\net10.0\refint\MaximumPossibleDeletion.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\MaximumPossibleDeletion\obj\Debug\net10.0\MaximumPossibleDeletion.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\MaximumPossibleDeletion\obj\Debug\net10.0\MaximumPossibleDeletion.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\MaximumPossibleDeletion\obj\Debug\net10.0\ref\MaximumPossibleDeletion.dll

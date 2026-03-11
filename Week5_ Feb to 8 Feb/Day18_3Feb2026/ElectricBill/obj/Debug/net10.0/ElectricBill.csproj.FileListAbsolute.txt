@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\ElectricBill\bin\Debug\net10.0\ElectricBill.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\ElectricBill\bin\Debug\net10.0\ElectricBill.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\ElectricBill\bin\Debug\net10.0\ElectricBill.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\ElectricBill\bin\Debug\net10.0\ElectricBill.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\ElectricBill\bin\Debug\net10.0\ElectricBill.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\ElectricBill\obj\Debug\net10.0\ElectricBill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\ElectricBill\obj\Debug\net10.0\ElectricBill.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\ElectricBill\obj\Debug\net10.0\ElectricBill.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\ElectricBill\obj\Debug\net10.0\ElectricBill.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\ElectricBill\obj\Debug\net10.0\ElectricBill.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\ElectricBill\obj\Debug\net10.0\refint\ElectricBill.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\ElectricBill\obj\Debug\net10.0\ElectricBill.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\ElectricBill\obj\Debug\net10.0\ElectricBill.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\ElectricBill\obj\Debug\net10.0\ref\ElectricBill.dll

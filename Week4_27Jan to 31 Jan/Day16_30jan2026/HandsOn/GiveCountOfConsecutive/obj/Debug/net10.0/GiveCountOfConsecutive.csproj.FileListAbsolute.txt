@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\GiveCountOfConsecutive\obj\Debug\net10.0\GiveCountOfConsecutive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\GiveCountOfConsecutive\obj\Debug\net10.0\GiveCountOfConsecutive.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\GiveCountOfConsecutive\obj\Debug\net10.0\GiveCountOfConsecutive.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\GiveCountOfConsecutive\obj\Debug\net10.0\GiveCountOfConsecutive.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\GiveCountOfConsecutive\bin\Debug\net10.0\GiveCountOfConsecutive.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\GiveCountOfConsecutive\bin\Debug\net10.0\GiveCountOfConsecutive.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\GiveCountOfConsecutive\bin\Debug\net10.0\GiveCountOfConsecutive.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\GiveCountOfConsecutive\bin\Debug\net10.0\GiveCountOfConsecutive.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\GiveCountOfConsecutive\bin\Debug\net10.0\GiveCountOfConsecutive.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\GiveCountOfConsecutive\obj\Debug\net10.0\GiveCountOfConsecutive.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\GiveCountOfConsecutive\obj\Debug\net10.0\refint\GiveCountOfConsecutive.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\GiveCountOfConsecutive\obj\Debug\net10.0\GiveCountOfConsecutive.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\GiveCountOfConsecutive\obj\Debug\net10.0\GiveCountOfConsecutive.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\GiveCountOfConsecutive\obj\Debug\net10.0\ref\GiveCountOfConsecutive.dll

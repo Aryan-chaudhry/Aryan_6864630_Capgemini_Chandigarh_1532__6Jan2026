@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckPresentOrNot\bin\Debug\net10.0\CheckPresentOrNot.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckPresentOrNot\bin\Debug\net10.0\CheckPresentOrNot.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckPresentOrNot\bin\Debug\net10.0\CheckPresentOrNot.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckPresentOrNot\bin\Debug\net10.0\CheckPresentOrNot.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckPresentOrNot\bin\Debug\net10.0\CheckPresentOrNot.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckPresentOrNot\obj\Debug\net10.0\CheckPresentOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckPresentOrNot\obj\Debug\net10.0\CheckPresentOrNot.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckPresentOrNot\obj\Debug\net10.0\CheckPresentOrNot.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckPresentOrNot\obj\Debug\net10.0\CheckPresentOrNot.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckPresentOrNot\obj\Debug\net10.0\CheckPresentOrNot.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckPresentOrNot\obj\Debug\net10.0\refint\CheckPresentOrNot.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckPresentOrNot\obj\Debug\net10.0\CheckPresentOrNot.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckPresentOrNot\obj\Debug\net10.0\CheckPresentOrNot.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckPresentOrNot\obj\Debug\net10.0\ref\CheckPresentOrNot.dll

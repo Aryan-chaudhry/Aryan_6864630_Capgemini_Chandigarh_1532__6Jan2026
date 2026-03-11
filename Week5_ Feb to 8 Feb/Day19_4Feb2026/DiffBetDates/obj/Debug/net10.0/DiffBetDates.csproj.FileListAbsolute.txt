@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\DiffBetDates\bin\Debug\net10.0\DiffBetDates.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\DiffBetDates\bin\Debug\net10.0\DiffBetDates.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\DiffBetDates\bin\Debug\net10.0\DiffBetDates.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\DiffBetDates\bin\Debug\net10.0\DiffBetDates.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\DiffBetDates\bin\Debug\net10.0\DiffBetDates.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\DiffBetDates\obj\Debug\net10.0\DiffBetDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\DiffBetDates\obj\Debug\net10.0\DiffBetDates.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\DiffBetDates\obj\Debug\net10.0\DiffBetDates.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\DiffBetDates\obj\Debug\net10.0\DiffBetDates.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\DiffBetDates\obj\Debug\net10.0\DiffBetDates.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\DiffBetDates\obj\Debug\net10.0\refint\DiffBetDates.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\DiffBetDates\obj\Debug\net10.0\DiffBetDates.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\DiffBetDates\obj\Debug\net10.0\DiffBetDates.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day19_4Feb2026\DiffBetDates\obj\Debug\net10.0\ref\DiffBetDates.dll

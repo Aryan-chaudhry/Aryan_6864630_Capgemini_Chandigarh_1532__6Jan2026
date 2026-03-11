@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\IsPalindrome\bin\Debug\net10.0\IsPalindrome.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\IsPalindrome\bin\Debug\net10.0\IsPalindrome.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\IsPalindrome\bin\Debug\net10.0\IsPalindrome.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\IsPalindrome\bin\Debug\net10.0\IsPalindrome.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\IsPalindrome\bin\Debug\net10.0\IsPalindrome.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\IsPalindrome\obj\Debug\net10.0\IsPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\IsPalindrome\obj\Debug\net10.0\IsPalindrome.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\IsPalindrome\obj\Debug\net10.0\IsPalindrome.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\IsPalindrome\obj\Debug\net10.0\IsPalindrome.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\IsPalindrome\obj\Debug\net10.0\IsPalindrome.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\IsPalindrome\obj\Debug\net10.0\refint\IsPalindrome.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\IsPalindrome\obj\Debug\net10.0\IsPalindrome.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\IsPalindrome\obj\Debug\net10.0\IsPalindrome.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\IsPalindrome\obj\Debug\net10.0\ref\IsPalindrome.dll

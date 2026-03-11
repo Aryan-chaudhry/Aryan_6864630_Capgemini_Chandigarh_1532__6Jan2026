@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\ParanthesisChecker\bin\Debug\net10.0\ParanthesisChecker.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\ParanthesisChecker\bin\Debug\net10.0\ParanthesisChecker.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\ParanthesisChecker\bin\Debug\net10.0\ParanthesisChecker.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\ParanthesisChecker\bin\Debug\net10.0\ParanthesisChecker.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\ParanthesisChecker\bin\Debug\net10.0\ParanthesisChecker.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\ParanthesisChecker\obj\Debug\net10.0\ParanthesisChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\ParanthesisChecker\obj\Debug\net10.0\ParanthesisChecker.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\ParanthesisChecker\obj\Debug\net10.0\ParanthesisChecker.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\ParanthesisChecker\obj\Debug\net10.0\ParanthesisChecker.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\ParanthesisChecker\obj\Debug\net10.0\ParanthesisChecker.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\ParanthesisChecker\obj\Debug\net10.0\refint\ParanthesisChecker.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\ParanthesisChecker\obj\Debug\net10.0\ParanthesisChecker.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\ParanthesisChecker\obj\Debug\net10.0\ParanthesisChecker.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\ParanthesisChecker\obj\Debug\net10.0\ref\ParanthesisChecker.dll

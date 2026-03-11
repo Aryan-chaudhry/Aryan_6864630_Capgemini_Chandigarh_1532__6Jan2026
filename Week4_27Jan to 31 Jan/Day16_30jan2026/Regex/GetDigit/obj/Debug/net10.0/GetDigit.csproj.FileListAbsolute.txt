@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\GetDigit\bin\Debug\net10.0\GetDigit.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\GetDigit\bin\Debug\net10.0\GetDigit.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\GetDigit\bin\Debug\net10.0\GetDigit.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\GetDigit\bin\Debug\net10.0\GetDigit.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\GetDigit\bin\Debug\net10.0\GetDigit.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\GetDigit\obj\Debug\net10.0\GetDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\GetDigit\obj\Debug\net10.0\GetDigit.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\GetDigit\obj\Debug\net10.0\GetDigit.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\GetDigit\obj\Debug\net10.0\GetDigit.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\GetDigit\obj\Debug\net10.0\GetDigit.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\GetDigit\obj\Debug\net10.0\refint\GetDigit.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\GetDigit\obj\Debug\net10.0\GetDigit.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\GetDigit\obj\Debug\net10.0\GetDigit.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\GetDigit\obj\Debug\net10.0\ref\GetDigit.dll

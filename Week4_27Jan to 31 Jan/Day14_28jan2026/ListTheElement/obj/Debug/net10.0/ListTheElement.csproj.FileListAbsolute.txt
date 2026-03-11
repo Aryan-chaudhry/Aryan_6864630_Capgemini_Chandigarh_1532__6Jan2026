@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\ListTheElement\bin\Debug\net10.0\ListTheElement.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\ListTheElement\bin\Debug\net10.0\ListTheElement.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\ListTheElement\bin\Debug\net10.0\ListTheElement.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\ListTheElement\bin\Debug\net10.0\ListTheElement.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\ListTheElement\bin\Debug\net10.0\ListTheElement.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\ListTheElement\obj\Debug\net10.0\ListTheElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\ListTheElement\obj\Debug\net10.0\ListTheElement.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\ListTheElement\obj\Debug\net10.0\ListTheElement.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\ListTheElement\obj\Debug\net10.0\ListTheElement.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\ListTheElement\obj\Debug\net10.0\ListTheElement.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\ListTheElement\obj\Debug\net10.0\refint\ListTheElement.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\ListTheElement\obj\Debug\net10.0\ListTheElement.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\ListTheElement\obj\Debug\net10.0\ListTheElement.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\ListTheElement\obj\Debug\net10.0\ref\ListTheElement.dll

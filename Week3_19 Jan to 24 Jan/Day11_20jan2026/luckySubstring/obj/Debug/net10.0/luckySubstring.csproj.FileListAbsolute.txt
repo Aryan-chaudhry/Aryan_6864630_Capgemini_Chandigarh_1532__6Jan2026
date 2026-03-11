@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\luckySubstring\bin\Debug\net10.0\luckySubstring.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\luckySubstring\bin\Debug\net10.0\luckySubstring.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\luckySubstring\bin\Debug\net10.0\luckySubstring.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\luckySubstring\bin\Debug\net10.0\luckySubstring.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\luckySubstring\bin\Debug\net10.0\luckySubstring.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\luckySubstring\obj\Debug\net10.0\luckySubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\luckySubstring\obj\Debug\net10.0\luckySubstring.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\luckySubstring\obj\Debug\net10.0\luckySubstring.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\luckySubstring\obj\Debug\net10.0\luckySubstring.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\luckySubstring\obj\Debug\net10.0\luckySubstring.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\luckySubstring\obj\Debug\net10.0\refint\luckySubstring.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\luckySubstring\obj\Debug\net10.0\luckySubstring.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\luckySubstring\obj\Debug\net10.0\luckySubstring.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\luckySubstring\obj\Debug\net10.0\ref\luckySubstring.dll

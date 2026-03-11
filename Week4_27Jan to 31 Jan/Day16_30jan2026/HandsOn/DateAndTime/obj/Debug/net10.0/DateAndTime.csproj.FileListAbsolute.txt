@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DateAndTime\bin\Debug\net10.0\DateAndTime.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DateAndTime\bin\Debug\net10.0\DateAndTime.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DateAndTime\bin\Debug\net10.0\DateAndTime.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DateAndTime\bin\Debug\net10.0\DateAndTime.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DateAndTime\bin\Debug\net10.0\DateAndTime.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DateAndTime\obj\Debug\net10.0\DateAndTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DateAndTime\obj\Debug\net10.0\DateAndTime.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DateAndTime\obj\Debug\net10.0\DateAndTime.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DateAndTime\obj\Debug\net10.0\DateAndTime.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DateAndTime\obj\Debug\net10.0\DateAndTime.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DateAndTime\obj\Debug\net10.0\refint\DateAndTime.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DateAndTime\obj\Debug\net10.0\DateAndTime.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DateAndTime\obj\Debug\net10.0\DateAndTime.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DateAndTime\obj\Debug\net10.0\ref\DateAndTime.dll

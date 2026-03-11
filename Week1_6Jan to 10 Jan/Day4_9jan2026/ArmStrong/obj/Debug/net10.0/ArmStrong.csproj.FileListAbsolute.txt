@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArmStrong\bin\Debug\net10.0\ArmStrong.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArmStrong\bin\Debug\net10.0\ArmStrong.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArmStrong\bin\Debug\net10.0\ArmStrong.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArmStrong\bin\Debug\net10.0\ArmStrong.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArmStrong\bin\Debug\net10.0\ArmStrong.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArmStrong\obj\Debug\net10.0\ArmStrong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArmStrong\obj\Debug\net10.0\ArmStrong.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArmStrong\obj\Debug\net10.0\ArmStrong.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArmStrong\obj\Debug\net10.0\ArmStrong.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArmStrong\obj\Debug\net10.0\ArmStrong.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArmStrong\obj\Debug\net10.0\refint\ArmStrong.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArmStrong\obj\Debug\net10.0\ArmStrong.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArmStrong\obj\Debug\net10.0\ArmStrong.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArmStrong\obj\Debug\net10.0\ref\ArmStrong.dll

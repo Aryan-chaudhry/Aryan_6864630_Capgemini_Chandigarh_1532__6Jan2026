@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\PerformOperation\bin\Debug\net10.0\PerformOperation.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\PerformOperation\bin\Debug\net10.0\PerformOperation.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\PerformOperation\bin\Debug\net10.0\PerformOperation.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\PerformOperation\bin\Debug\net10.0\PerformOperation.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\PerformOperation\bin\Debug\net10.0\PerformOperation.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\PerformOperation\obj\Debug\net10.0\PerformOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\PerformOperation\obj\Debug\net10.0\PerformOperation.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\PerformOperation\obj\Debug\net10.0\PerformOperation.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\PerformOperation\obj\Debug\net10.0\PerformOperation.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\PerformOperation\obj\Debug\net10.0\PerformOperation.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\PerformOperation\obj\Debug\net10.0\refint\PerformOperation.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\PerformOperation\obj\Debug\net10.0\PerformOperation.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\PerformOperation\obj\Debug\net10.0\PerformOperation.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\PerformOperation\obj\Debug\net10.0\ref\PerformOperation.dll

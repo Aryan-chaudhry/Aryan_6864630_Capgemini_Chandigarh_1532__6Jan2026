@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\SumUpToTarget\obj\Debug\net10.0\SumUpToTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\SumUpToTarget\obj\Debug\net10.0\SumUpToTarget.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\SumUpToTarget\obj\Debug\net10.0\SumUpToTarget.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\SumUpToTarget\obj\Debug\net10.0\SumUpToTarget.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\SumUpToTarget\bin\Debug\net10.0\SumUpToTarget.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\SumUpToTarget\bin\Debug\net10.0\SumUpToTarget.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\SumUpToTarget\bin\Debug\net10.0\SumUpToTarget.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\SumUpToTarget\bin\Debug\net10.0\SumUpToTarget.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\SumUpToTarget\bin\Debug\net10.0\SumUpToTarget.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\SumUpToTarget\obj\Debug\net10.0\SumUpToTarget.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\SumUpToTarget\obj\Debug\net10.0\refint\SumUpToTarget.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\SumUpToTarget\obj\Debug\net10.0\SumUpToTarget.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\SumUpToTarget\obj\Debug\net10.0\SumUpToTarget.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\SumUpToTarget\obj\Debug\net10.0\ref\SumUpToTarget.dll

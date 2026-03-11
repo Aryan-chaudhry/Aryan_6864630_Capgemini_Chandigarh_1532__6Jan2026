@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\NumberOfDigit\bin\Debug\net10.0\NumberOfDigit.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\NumberOfDigit\bin\Debug\net10.0\NumberOfDigit.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\NumberOfDigit\bin\Debug\net10.0\NumberOfDigit.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\NumberOfDigit\bin\Debug\net10.0\NumberOfDigit.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\NumberOfDigit\bin\Debug\net10.0\NumberOfDigit.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\NumberOfDigit\obj\Debug\net10.0\NumberOfDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\NumberOfDigit\obj\Debug\net10.0\NumberOfDigit.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\NumberOfDigit\obj\Debug\net10.0\NumberOfDigit.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\NumberOfDigit\obj\Debug\net10.0\NumberOfDigit.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\NumberOfDigit\obj\Debug\net10.0\NumberOfDigit.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\NumberOfDigit\obj\Debug\net10.0\refint\NumberOfDigit.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\NumberOfDigit\obj\Debug\net10.0\NumberOfDigit.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\NumberOfDigit\obj\Debug\net10.0\NumberOfDigit.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\NumberOfDigit\obj\Debug\net10.0\ref\NumberOfDigit.dll

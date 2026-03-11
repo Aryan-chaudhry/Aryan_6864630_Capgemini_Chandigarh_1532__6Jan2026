@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\BookStore\bin\Debug\net10.0\BookStore.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\BookStore\bin\Debug\net10.0\BookStore.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\BookStore\bin\Debug\net10.0\BookStore.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\BookStore\bin\Debug\net10.0\BookStore.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\BookStore\bin\Debug\net10.0\BookStore.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\BookStore\obj\Debug\net10.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\BookStore\obj\Debug\net10.0\BookStore.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\BookStore\obj\Debug\net10.0\BookStore.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\BookStore\obj\Debug\net10.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\BookStore\obj\Debug\net10.0\BookStore.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\BookStore\obj\Debug\net10.0\refint\BookStore.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\BookStore\obj\Debug\net10.0\BookStore.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\BookStore\obj\Debug\net10.0\BookStore.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\BookStore\obj\Debug\net10.0\ref\BookStore.dll

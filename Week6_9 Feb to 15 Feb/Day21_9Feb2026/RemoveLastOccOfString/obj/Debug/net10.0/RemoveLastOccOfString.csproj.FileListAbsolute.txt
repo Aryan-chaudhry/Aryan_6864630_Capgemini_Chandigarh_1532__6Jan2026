@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\RemoveLastOccOfString\bin\Debug\net10.0\RemoveLastOccOfString.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\RemoveLastOccOfString\bin\Debug\net10.0\RemoveLastOccOfString.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\RemoveLastOccOfString\bin\Debug\net10.0\RemoveLastOccOfString.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\RemoveLastOccOfString\bin\Debug\net10.0\RemoveLastOccOfString.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\RemoveLastOccOfString\bin\Debug\net10.0\RemoveLastOccOfString.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\RemoveLastOccOfString\obj\Debug\net10.0\RemoveLastOccOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\RemoveLastOccOfString\obj\Debug\net10.0\RemoveLastOccOfString.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\RemoveLastOccOfString\obj\Debug\net10.0\RemoveLastOccOfString.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\RemoveLastOccOfString\obj\Debug\net10.0\RemoveLastOccOfString.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\RemoveLastOccOfString\obj\Debug\net10.0\RemoveLastOccOfString.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\RemoveLastOccOfString\obj\Debug\net10.0\refint\RemoveLastOccOfString.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\RemoveLastOccOfString\obj\Debug\net10.0\RemoveLastOccOfString.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\RemoveLastOccOfString\obj\Debug\net10.0\RemoveLastOccOfString.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\RemoveLastOccOfString\obj\Debug\net10.0\ref\RemoveLastOccOfString.dll

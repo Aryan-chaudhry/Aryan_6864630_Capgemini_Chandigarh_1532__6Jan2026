@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day6_12jan2026\RemoveNegavtiveAndSort\bin\Debug\net10.0\RemoveNegavtiveAndSort.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day6_12jan2026\RemoveNegavtiveAndSort\bin\Debug\net10.0\RemoveNegavtiveAndSort.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day6_12jan2026\RemoveNegavtiveAndSort\bin\Debug\net10.0\RemoveNegavtiveAndSort.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day6_12jan2026\RemoveNegavtiveAndSort\bin\Debug\net10.0\RemoveNegavtiveAndSort.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day6_12jan2026\RemoveNegavtiveAndSort\bin\Debug\net10.0\RemoveNegavtiveAndSort.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day6_12jan2026\RemoveNegavtiveAndSort\obj\Debug\net10.0\RemoveNegavtiveAndSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day6_12jan2026\RemoveNegavtiveAndSort\obj\Debug\net10.0\RemoveNegavtiveAndSort.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day6_12jan2026\RemoveNegavtiveAndSort\obj\Debug\net10.0\RemoveNegavtiveAndSort.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day6_12jan2026\RemoveNegavtiveAndSort\obj\Debug\net10.0\RemoveNegavtiveAndSort.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day6_12jan2026\RemoveNegavtiveAndSort\obj\Debug\net10.0\RemoveNegavtiveAndSort.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day6_12jan2026\RemoveNegavtiveAndSort\obj\Debug\net10.0\refint\RemoveNegavtiveAndSort.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day6_12jan2026\RemoveNegavtiveAndSort\obj\Debug\net10.0\RemoveNegavtiveAndSort.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day6_12jan2026\RemoveNegavtiveAndSort\obj\Debug\net10.0\RemoveNegavtiveAndSort.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day6_12jan2026\RemoveNegavtiveAndSort\obj\Debug\net10.0\ref\RemoveNegavtiveAndSort.dll

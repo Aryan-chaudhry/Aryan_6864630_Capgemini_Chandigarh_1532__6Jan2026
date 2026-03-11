@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Day12_23jan2026\\supportcenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31610627-F514-4B1E-B496-43BF6599C08A}|supportcenter.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\day12_23jan2026\\supportcenter\\buyticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31610627-F514-4B1E-B496-43BF6599C08A}|supportcenter.csproj|solutionrelative:buyticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31610627-F514-4B1E-B496-43BF6599C08A}|supportcenter.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\day12_23jan2026\\supportcenter\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31610627-F514-4B1E-B496-43BF6599C08A}|supportcenter.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31610627-F514-4B1E-B496-43BF6599C08A}|supportcenter.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\day12_23jan2026\\supportcenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31610627-F514-4B1E-B496-43BF6599C08A}|supportcenter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 267,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BuyTicket.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Day12_23jan2026\\supportcenter\\BuyTicket.cs",
+              "RelativeDocumentMoniker": "BuyTicket.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Day12_23jan2026\\supportcenter\\BuyTicket.cs*",
+              "RelativeToolTip": "BuyTicket.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T05:59:34.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "customer.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Day12_23jan2026\\supportcenter\\customer.cs",
+              "RelativeDocumentMoniker": "customer.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Day12_23jan2026\\supportcenter\\customer.cs",
+              "RelativeToolTip": "customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T05:57:30.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Day12_23jan2026\\supportcenter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Day12_23jan2026\\supportcenter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T05:45:16.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 133,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

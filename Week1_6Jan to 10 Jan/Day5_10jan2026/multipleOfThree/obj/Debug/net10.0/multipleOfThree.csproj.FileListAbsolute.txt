@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\multipleOfThree\bin\Debug\net10.0\multipleOfThree.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\multipleOfThree\bin\Debug\net10.0\multipleOfThree.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\multipleOfThree\bin\Debug\net10.0\multipleOfThree.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\multipleOfThree\bin\Debug\net10.0\multipleOfThree.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\multipleOfThree\bin\Debug\net10.0\multipleOfThree.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\multipleOfThree\obj\Debug\net10.0\multipleOfThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\multipleOfThree\obj\Debug\net10.0\multipleOfThree.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\multipleOfThree\obj\Debug\net10.0\multipleOfThree.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\multipleOfThree\obj\Debug\net10.0\multipleOfThree.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\multipleOfThree\obj\Debug\net10.0\multipleOfThree.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\multipleOfThree\obj\Debug\net10.0\refint\multipleOfThree.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\multipleOfThree\obj\Debug\net10.0\multipleOfThree.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\multipleOfThree\obj\Debug\net10.0\multipleOfThree.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\multipleOfThree\obj\Debug\net10.0\ref\multipleOfThree.dll

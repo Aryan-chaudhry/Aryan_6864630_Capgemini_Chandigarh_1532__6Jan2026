@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\InsertChar\bin\Debug\net10.0\InsertChar.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\InsertChar\bin\Debug\net10.0\InsertChar.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\InsertChar\bin\Debug\net10.0\InsertChar.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\InsertChar\bin\Debug\net10.0\InsertChar.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\InsertChar\bin\Debug\net10.0\InsertChar.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\InsertChar\obj\Debug\net10.0\InsertChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\InsertChar\obj\Debug\net10.0\InsertChar.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\InsertChar\obj\Debug\net10.0\InsertChar.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\InsertChar\obj\Debug\net10.0\InsertChar.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\InsertChar\obj\Debug\net10.0\InsertChar.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\InsertChar\obj\Debug\net10.0\refint\InsertChar.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\InsertChar\obj\Debug\net10.0\InsertChar.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\InsertChar\obj\Debug\net10.0\InsertChar.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\InsertChar\obj\Debug\net10.0\ref\InsertChar.dll

@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\TotalFrequency\bin\Debug\net10.0\TotalFrequency.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\TotalFrequency\bin\Debug\net10.0\TotalFrequency.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\TotalFrequency\bin\Debug\net10.0\TotalFrequency.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\TotalFrequency\bin\Debug\net10.0\TotalFrequency.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\TotalFrequency\bin\Debug\net10.0\TotalFrequency.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\TotalFrequency\obj\Debug\net10.0\TotalFrequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\TotalFrequency\obj\Debug\net10.0\TotalFrequency.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\TotalFrequency\obj\Debug\net10.0\TotalFrequency.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\TotalFrequency\obj\Debug\net10.0\TotalFrequency.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\TotalFrequency\obj\Debug\net10.0\TotalFrequency.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\TotalFrequency\obj\Debug\net10.0\refint\TotalFrequency.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\TotalFrequency\obj\Debug\net10.0\TotalFrequency.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\TotalFrequency\obj\Debug\net10.0\TotalFrequency.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\TotalFrequency\obj\Debug\net10.0\ref\TotalFrequency.dll

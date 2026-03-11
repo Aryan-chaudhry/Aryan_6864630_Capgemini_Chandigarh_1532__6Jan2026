@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\LamdaWithObject\bin\Debug\net10.0\LamdaWithObject.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\LamdaWithObject\bin\Debug\net10.0\LamdaWithObject.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\LamdaWithObject\bin\Debug\net10.0\LamdaWithObject.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\LamdaWithObject\bin\Debug\net10.0\LamdaWithObject.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\LamdaWithObject\bin\Debug\net10.0\LamdaWithObject.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\LamdaWithObject\obj\Debug\net10.0\LamdaWithObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\LamdaWithObject\obj\Debug\net10.0\LamdaWithObject.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\LamdaWithObject\obj\Debug\net10.0\LamdaWithObject.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\LamdaWithObject\obj\Debug\net10.0\LamdaWithObject.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\LamdaWithObject\obj\Debug\net10.0\LamdaWithObject.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\LamdaWithObject\obj\Debug\net10.0\refint\LamdaWithObject.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\LamdaWithObject\obj\Debug\net10.0\LamdaWithObject.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\LamdaWithObject\obj\Debug\net10.0\LamdaWithObject.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\LamdaWithObject\obj\Debug\net10.0\ref\LamdaWithObject.dll

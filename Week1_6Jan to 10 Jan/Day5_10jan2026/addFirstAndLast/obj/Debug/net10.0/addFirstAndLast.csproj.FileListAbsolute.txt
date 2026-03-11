@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\addFirstAndLast\obj\Debug\net10.0\addFirstAndLast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\addFirstAndLast\obj\Debug\net10.0\addFirstAndLast.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\addFirstAndLast\obj\Debug\net10.0\addFirstAndLast.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\addFirstAndLast\obj\Debug\net10.0\addFirstAndLast.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\addFirstAndLast\bin\Debug\net10.0\addFirstAndLast.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\addFirstAndLast\bin\Debug\net10.0\addFirstAndLast.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\addFirstAndLast\bin\Debug\net10.0\addFirstAndLast.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\addFirstAndLast\bin\Debug\net10.0\addFirstAndLast.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\addFirstAndLast\bin\Debug\net10.0\addFirstAndLast.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\addFirstAndLast\obj\Debug\net10.0\addFirstAndLast.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\addFirstAndLast\obj\Debug\net10.0\refint\addFirstAndLast.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\addFirstAndLast\obj\Debug\net10.0\addFirstAndLast.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\addFirstAndLast\obj\Debug\net10.0\addFirstAndLast.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\addFirstAndLast\obj\Debug\net10.0\ref\addFirstAndLast.dll

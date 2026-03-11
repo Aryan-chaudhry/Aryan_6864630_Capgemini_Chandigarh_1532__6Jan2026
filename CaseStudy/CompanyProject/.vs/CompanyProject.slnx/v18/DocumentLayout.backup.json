@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\CaseStudy\\CompanyProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF76DD65-5D3D-8BB3-A07A-C79C977DD8B0}|CompanyProject.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\casestudy\\companyproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF76DD65-5D3D-8BB3-A07A-C79C977DD8B0}|CompanyProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF76DD65-5D3D-8BB3-A07A-C79C977DD8B0}|CompanyProject.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\casestudy\\companyproject\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF76DD65-5D3D-8BB3-A07A-C79C977DD8B0}|CompanyProject.csproj|solutionrelative:meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF76DD65-5D3D-8BB3-A07A-C79C977DD8B0}|CompanyProject.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\casestudy\\companyproject\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF76DD65-5D3D-8BB3-A07A-C79C977DD8B0}|CompanyProject.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF76DD65-5D3D-8BB3-A07A-C79C977DD8B0}|CompanyProject.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\casestudy\\companyproject\\employeeaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF76DD65-5D3D-8BB3-A07A-C79C977DD8B0}|CompanyProject.csproj|solutionrelative:employeeaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF76DD65-5D3D-8BB3-A07A-C79C977DD8B0}|CompanyProject.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\casestudy\\companyproject\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF76DD65-5D3D-8BB3-A07A-C79C977DD8B0}|CompanyProject.csproj|solutionrelative:department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF76DD65-5D3D-8BB3-A07A-C79C977DD8B0}|CompanyProject.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\casestudy\\companyproject\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF76DD65-5D3D-8BB3-A07A-C79C977DD8B0}|CompanyProject.csproj|solutionrelative:company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Meeting.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\CaseStudy\\CompanyProject\\Meeting.cs",
+              "RelativeDocumentMoniker": "Meeting.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\CaseStudy\\CompanyProject\\Meeting.cs",
+              "RelativeToolTip": "Meeting.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:39:01.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\CaseStudy\\CompanyProject\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\CaseStudy\\CompanyProject\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T17:23:50.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeAccount.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\CaseStudy\\CompanyProject\\EmployeeAccount.cs",
+              "RelativeDocumentMoniker": "EmployeeAccount.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\CaseStudy\\CompanyProject\\EmployeeAccount.cs",
+              "RelativeToolTip": "EmployeeAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T17:09:14.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\CaseStudy\\CompanyProject\\Department.cs",
+              "RelativeDocumentMoniker": "Department.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\CaseStudy\\CompanyProject\\Department.cs",
+              "RelativeToolTip": "Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T16:53:20.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\CaseStudy\\CompanyProject\\Company.cs",
+              "RelativeDocumentMoniker": "Company.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\CaseStudy\\CompanyProject\\Company.cs",
+              "RelativeToolTip": "Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T16:15:00.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\CaseStudy\\CompanyProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\CaseStudy\\CompanyProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T07:04:20.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1497,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

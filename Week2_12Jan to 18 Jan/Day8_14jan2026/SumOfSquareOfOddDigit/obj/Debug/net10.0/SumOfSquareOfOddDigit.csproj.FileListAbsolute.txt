@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SumOfSquareOfOddDigit\bin\Debug\net10.0\SumOfSquareOfOddDigit.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SumOfSquareOfOddDigit\bin\Debug\net10.0\SumOfSquareOfOddDigit.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SumOfSquareOfOddDigit\bin\Debug\net10.0\SumOfSquareOfOddDigit.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SumOfSquareOfOddDigit\bin\Debug\net10.0\SumOfSquareOfOddDigit.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SumOfSquareOfOddDigit\bin\Debug\net10.0\SumOfSquareOfOddDigit.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SumOfSquareOfOddDigit\obj\Debug\net10.0\SumOfSquareOfOddDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SumOfSquareOfOddDigit\obj\Debug\net10.0\SumOfSquareOfOddDigit.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SumOfSquareOfOddDigit\obj\Debug\net10.0\SumOfSquareOfOddDigit.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SumOfSquareOfOddDigit\obj\Debug\net10.0\SumOfSquareOfOddDigit.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SumOfSquareOfOddDigit\obj\Debug\net10.0\SumOfSquareOfOddDigit.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SumOfSquareOfOddDigit\obj\Debug\net10.0\refint\SumOfSquareOfOddDigit.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SumOfSquareOfOddDigit\obj\Debug\net10.0\SumOfSquareOfOddDigit.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SumOfSquareOfOddDigit\obj\Debug\net10.0\SumOfSquareOfOddDigit.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SumOfSquareOfOddDigit\obj\Debug\net10.0\ref\SumOfSquareOfOddDigit.dll

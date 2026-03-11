@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\AddingYearToDate\bin\Debug\net10.0\AddingYearToDate.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\AddingYearToDate\bin\Debug\net10.0\AddingYearToDate.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\AddingYearToDate\bin\Debug\net10.0\AddingYearToDate.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\AddingYearToDate\bin\Debug\net10.0\AddingYearToDate.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\AddingYearToDate\bin\Debug\net10.0\AddingYearToDate.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\AddingYearToDate\obj\Debug\net10.0\AddingYearToDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\AddingYearToDate\obj\Debug\net10.0\AddingYearToDate.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\AddingYearToDate\obj\Debug\net10.0\AddingYearToDate.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\AddingYearToDate\obj\Debug\net10.0\AddingYearToDate.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\AddingYearToDate\obj\Debug\net10.0\AddingYearToDate.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\AddingYearToDate\obj\Debug\net10.0\refint\AddingYearToDate.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\AddingYearToDate\obj\Debug\net10.0\AddingYearToDate.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\AddingYearToDate\obj\Debug\net10.0\AddingYearToDate.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\AddingYearToDate\obj\Debug\net10.0\ref\AddingYearToDate.dll

@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SearchRemoveAndSort\bin\Debug\net10.0\SearchRemoveAndSort.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SearchRemoveAndSort\bin\Debug\net10.0\SearchRemoveAndSort.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SearchRemoveAndSort\bin\Debug\net10.0\SearchRemoveAndSort.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SearchRemoveAndSort\bin\Debug\net10.0\SearchRemoveAndSort.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SearchRemoveAndSort\bin\Debug\net10.0\SearchRemoveAndSort.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SearchRemoveAndSort\obj\Debug\net10.0\SearchRemoveAndSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SearchRemoveAndSort\obj\Debug\net10.0\SearchRemoveAndSort.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SearchRemoveAndSort\obj\Debug\net10.0\SearchRemoveAndSort.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SearchRemoveAndSort\obj\Debug\net10.0\SearchRemoveAndSort.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SearchRemoveAndSort\obj\Debug\net10.0\SearchRemoveAndSort.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SearchRemoveAndSort\obj\Debug\net10.0\refint\SearchRemoveAndSort.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SearchRemoveAndSort\obj\Debug\net10.0\SearchRemoveAndSort.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SearchRemoveAndSort\obj\Debug\net10.0\SearchRemoveAndSort.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day8_14jan2026\SearchRemoveAndSort\obj\Debug\net10.0\ref\SearchRemoveAndSort.dll

@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\HashtagExtraction\bin\Debug\net10.0\HashtagExtraction.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\HashtagExtraction\bin\Debug\net10.0\HashtagExtraction.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\HashtagExtraction\bin\Debug\net10.0\HashtagExtraction.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\HashtagExtraction\bin\Debug\net10.0\HashtagExtraction.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\HashtagExtraction\bin\Debug\net10.0\HashtagExtraction.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\HashtagExtraction\obj\Debug\net10.0\HashtagExtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\HashtagExtraction\obj\Debug\net10.0\HashtagExtraction.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\HashtagExtraction\obj\Debug\net10.0\HashtagExtraction.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\HashtagExtraction\obj\Debug\net10.0\HashtagExtraction.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\HashtagExtraction\obj\Debug\net10.0\HashtagExtraction.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\HashtagExtraction\obj\Debug\net10.0\refint\HashtagExtraction.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\HashtagExtraction\obj\Debug\net10.0\HashtagExtraction.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\HashtagExtraction\obj\Debug\net10.0\HashtagExtraction.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\HashtagExtraction\obj\Debug\net10.0\ref\HashtagExtraction.dll

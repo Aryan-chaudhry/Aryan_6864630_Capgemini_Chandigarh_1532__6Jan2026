@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\EmailValidation\bin\Debug\net10.0\EmailValidation.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\EmailValidation\bin\Debug\net10.0\EmailValidation.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\EmailValidation\bin\Debug\net10.0\EmailValidation.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\EmailValidation\bin\Debug\net10.0\EmailValidation.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\EmailValidation\bin\Debug\net10.0\EmailValidation.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\EmailValidation\obj\Debug\net10.0\EmailValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\EmailValidation\obj\Debug\net10.0\EmailValidation.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\EmailValidation\obj\Debug\net10.0\EmailValidation.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\EmailValidation\obj\Debug\net10.0\EmailValidation.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\EmailValidation\obj\Debug\net10.0\EmailValidation.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\EmailValidation\obj\Debug\net10.0\refint\EmailValidation.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\EmailValidation\obj\Debug\net10.0\EmailValidation.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\EmailValidation\obj\Debug\net10.0\EmailValidation.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\Regex\EmailValidation\obj\Debug\net10.0\ref\EmailValidation.dll

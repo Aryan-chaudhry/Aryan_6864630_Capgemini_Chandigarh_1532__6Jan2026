@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\removeDuplicate\bin\Debug\net10.0\removeDuplicate.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\removeDuplicate\bin\Debug\net10.0\removeDuplicate.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\removeDuplicate\bin\Debug\net10.0\removeDuplicate.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\removeDuplicate\bin\Debug\net10.0\removeDuplicate.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\removeDuplicate\bin\Debug\net10.0\removeDuplicate.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\removeDuplicate\obj\Debug\net10.0\removeDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\removeDuplicate\obj\Debug\net10.0\removeDuplicate.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\removeDuplicate\obj\Debug\net10.0\removeDuplicate.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\removeDuplicate\obj\Debug\net10.0\removeDuplicate.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\removeDuplicate\obj\Debug\net10.0\removeDuplicate.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\removeDuplicate\obj\Debug\net10.0\refint\removeDuplicate.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\removeDuplicate\obj\Debug\net10.0\removeDuplicate.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\removeDuplicate\obj\Debug\net10.0\removeDuplicate.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\removeDuplicate\obj\Debug\net10.0\ref\removeDuplicate.dll

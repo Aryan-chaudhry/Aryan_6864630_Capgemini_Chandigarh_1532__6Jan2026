@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\removeAndInsert\bin\Debug\net10.0\removeAndInsert.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\removeAndInsert\bin\Debug\net10.0\removeAndInsert.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\removeAndInsert\bin\Debug\net10.0\removeAndInsert.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\removeAndInsert\bin\Debug\net10.0\removeAndInsert.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\removeAndInsert\bin\Debug\net10.0\removeAndInsert.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\removeAndInsert\obj\Debug\net10.0\removeAndInsert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\removeAndInsert\obj\Debug\net10.0\removeAndInsert.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\removeAndInsert\obj\Debug\net10.0\removeAndInsert.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\removeAndInsert\obj\Debug\net10.0\removeAndInsert.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\removeAndInsert\obj\Debug\net10.0\removeAndInsert.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\removeAndInsert\obj\Debug\net10.0\refint\removeAndInsert.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\removeAndInsert\obj\Debug\net10.0\removeAndInsert.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\removeAndInsert\obj\Debug\net10.0\removeAndInsert.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\removeAndInsert\obj\Debug\net10.0\ref\removeAndInsert.dll

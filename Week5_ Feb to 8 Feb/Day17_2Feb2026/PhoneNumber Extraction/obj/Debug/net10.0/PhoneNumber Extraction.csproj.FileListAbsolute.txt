@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\PhoneNumber Extraction\bin\Debug\net10.0\PhoneNumber Extraction.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\PhoneNumber Extraction\bin\Debug\net10.0\PhoneNumber Extraction.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\PhoneNumber Extraction\bin\Debug\net10.0\PhoneNumber Extraction.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\PhoneNumber Extraction\bin\Debug\net10.0\PhoneNumber Extraction.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\PhoneNumber Extraction\bin\Debug\net10.0\PhoneNumber Extraction.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\PhoneNumber Extraction\obj\Debug\net10.0\PhoneNumber Extraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\PhoneNumber Extraction\obj\Debug\net10.0\PhoneNumber Extraction.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\PhoneNumber Extraction\obj\Debug\net10.0\PhoneNumber Extraction.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\PhoneNumber Extraction\obj\Debug\net10.0\PhoneNumber Extraction.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\PhoneNumber Extraction\obj\Debug\net10.0\PhoneNumber Extraction.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\PhoneNumber Extraction\obj\Debug\net10.0\refint\PhoneNumber Extraction.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\PhoneNumber Extraction\obj\Debug\net10.0\PhoneNumber Extraction.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\PhoneNumber Extraction\obj\Debug\net10.0\PhoneNumber Extraction.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day17_2Feb2026\PhoneNumber Extraction\obj\Debug\net10.0\ref\PhoneNumber Extraction.dll

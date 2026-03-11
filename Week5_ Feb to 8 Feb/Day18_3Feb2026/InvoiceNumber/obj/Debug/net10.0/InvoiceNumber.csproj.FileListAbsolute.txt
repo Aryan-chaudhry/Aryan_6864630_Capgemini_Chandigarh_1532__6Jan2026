@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\InvoiceNumber\bin\Debug\net10.0\InvoiceNumber.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\InvoiceNumber\bin\Debug\net10.0\InvoiceNumber.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\InvoiceNumber\bin\Debug\net10.0\InvoiceNumber.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\InvoiceNumber\bin\Debug\net10.0\InvoiceNumber.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\InvoiceNumber\bin\Debug\net10.0\InvoiceNumber.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\InvoiceNumber\obj\Debug\net10.0\InvoiceNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\InvoiceNumber\obj\Debug\net10.0\InvoiceNumber.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\InvoiceNumber\obj\Debug\net10.0\InvoiceNumber.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\InvoiceNumber\obj\Debug\net10.0\InvoiceNumber.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\InvoiceNumber\obj\Debug\net10.0\InvoiceNumber.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\InvoiceNumber\obj\Debug\net10.0\refint\InvoiceNumber.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\InvoiceNumber\obj\Debug\net10.0\InvoiceNumber.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\InvoiceNumber\obj\Debug\net10.0\InvoiceNumber.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\InvoiceNumber\obj\Debug\net10.0\ref\InvoiceNumber.dll

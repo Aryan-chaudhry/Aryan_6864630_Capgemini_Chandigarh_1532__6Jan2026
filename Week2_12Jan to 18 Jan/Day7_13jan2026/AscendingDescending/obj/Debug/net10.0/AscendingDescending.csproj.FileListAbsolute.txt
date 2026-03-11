@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day7_13jan2026\AscendingDescending\bin\Debug\net10.0\AscendingDescending.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day7_13jan2026\AscendingDescending\bin\Debug\net10.0\AscendingDescending.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day7_13jan2026\AscendingDescending\bin\Debug\net10.0\AscendingDescending.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day7_13jan2026\AscendingDescending\bin\Debug\net10.0\AscendingDescending.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day7_13jan2026\AscendingDescending\bin\Debug\net10.0\AscendingDescending.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day7_13jan2026\AscendingDescending\obj\Debug\net10.0\AscendingDescending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day7_13jan2026\AscendingDescending\obj\Debug\net10.0\AscendingDescending.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day7_13jan2026\AscendingDescending\obj\Debug\net10.0\AscendingDescending.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day7_13jan2026\AscendingDescending\obj\Debug\net10.0\AscendingDescending.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day7_13jan2026\AscendingDescending\obj\Debug\net10.0\AscendingDescending.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day7_13jan2026\AscendingDescending\obj\Debug\net10.0\refint\AscendingDescending.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day7_13jan2026\AscendingDescending\obj\Debug\net10.0\AscendingDescending.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day7_13jan2026\AscendingDescending\obj\Debug\net10.0\AscendingDescending.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day7_13jan2026\AscendingDescending\obj\Debug\net10.0\ref\AscendingDescending.dll

@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day10_19jan2026\EcommercePlatform\bin\Debug\net10.0\EcommercePlatform.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day10_19jan2026\EcommercePlatform\bin\Debug\net10.0\EcommercePlatform.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day10_19jan2026\EcommercePlatform\bin\Debug\net10.0\EcommercePlatform.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day10_19jan2026\EcommercePlatform\bin\Debug\net10.0\EcommercePlatform.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day10_19jan2026\EcommercePlatform\bin\Debug\net10.0\EcommercePlatform.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day10_19jan2026\EcommercePlatform\obj\Debug\net10.0\EcommercePlatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day10_19jan2026\EcommercePlatform\obj\Debug\net10.0\EcommercePlatform.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day10_19jan2026\EcommercePlatform\obj\Debug\net10.0\EcommercePlatform.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day10_19jan2026\EcommercePlatform\obj\Debug\net10.0\EcommercePlatform.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day10_19jan2026\EcommercePlatform\obj\Debug\net10.0\EcommercePlatform.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day10_19jan2026\EcommercePlatform\obj\Debug\net10.0\refint\EcommercePlatform.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day10_19jan2026\EcommercePlatform\obj\Debug\net10.0\EcommercePlatform.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day10_19jan2026\EcommercePlatform\obj\Debug\net10.0\EcommercePlatform.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day10_19jan2026\EcommercePlatform\obj\Debug\net10.0\ref\EcommercePlatform.dll

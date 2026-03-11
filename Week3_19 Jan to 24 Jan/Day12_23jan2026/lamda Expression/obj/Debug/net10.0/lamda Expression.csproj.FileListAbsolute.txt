@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\lamda Expression\bin\Debug\net10.0\lamda Expression.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\lamda Expression\bin\Debug\net10.0\lamda Expression.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\lamda Expression\bin\Debug\net10.0\lamda Expression.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\lamda Expression\bin\Debug\net10.0\lamda Expression.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\lamda Expression\bin\Debug\net10.0\lamda Expression.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\lamda Expression\obj\Debug\net10.0\lamda Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\lamda Expression\obj\Debug\net10.0\lamda Expression.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\lamda Expression\obj\Debug\net10.0\lamda Expression.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\lamda Expression\obj\Debug\net10.0\lamda Expression.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\lamda Expression\obj\Debug\net10.0\lamda Expression.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\lamda Expression\obj\Debug\net10.0\refint\lamda Expression.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\lamda Expression\obj\Debug\net10.0\lamda Expression.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\lamda Expression\obj\Debug\net10.0\lamda Expression.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\lamda Expression\obj\Debug\net10.0\ref\lamda Expression.dll

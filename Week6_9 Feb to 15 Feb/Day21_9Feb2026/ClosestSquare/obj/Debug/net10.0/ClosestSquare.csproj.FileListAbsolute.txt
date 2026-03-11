@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ClosestSquare\bin\Debug\net10.0\ClosestSquare.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ClosestSquare\bin\Debug\net10.0\ClosestSquare.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ClosestSquare\bin\Debug\net10.0\ClosestSquare.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ClosestSquare\bin\Debug\net10.0\ClosestSquare.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ClosestSquare\bin\Debug\net10.0\ClosestSquare.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ClosestSquare\obj\Debug\net10.0\ClosestSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ClosestSquare\obj\Debug\net10.0\ClosestSquare.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ClosestSquare\obj\Debug\net10.0\ClosestSquare.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ClosestSquare\obj\Debug\net10.0\ClosestSquare.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ClosestSquare\obj\Debug\net10.0\ClosestSquare.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ClosestSquare\obj\Debug\net10.0\refint\ClosestSquare.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ClosestSquare\obj\Debug\net10.0\ClosestSquare.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ClosestSquare\obj\Debug\net10.0\ClosestSquare.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ClosestSquare\obj\Debug\net10.0\ref\ClosestSquare.dll

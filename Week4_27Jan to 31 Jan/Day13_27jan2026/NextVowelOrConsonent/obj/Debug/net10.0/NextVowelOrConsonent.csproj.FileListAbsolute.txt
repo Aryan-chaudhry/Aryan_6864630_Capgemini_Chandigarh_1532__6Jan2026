@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\NextVowelOrConsonent\bin\Debug\net10.0\NextVowelOrConsonent.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\NextVowelOrConsonent\bin\Debug\net10.0\NextVowelOrConsonent.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\NextVowelOrConsonent\bin\Debug\net10.0\NextVowelOrConsonent.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\NextVowelOrConsonent\bin\Debug\net10.0\NextVowelOrConsonent.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\NextVowelOrConsonent\bin\Debug\net10.0\NextVowelOrConsonent.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\NextVowelOrConsonent\obj\Debug\net10.0\NextVowelOrConsonent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\NextVowelOrConsonent\obj\Debug\net10.0\NextVowelOrConsonent.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\NextVowelOrConsonent\obj\Debug\net10.0\NextVowelOrConsonent.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\NextVowelOrConsonent\obj\Debug\net10.0\NextVowelOrConsonent.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\NextVowelOrConsonent\obj\Debug\net10.0\NextVowelOrConsonent.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\NextVowelOrConsonent\obj\Debug\net10.0\refint\NextVowelOrConsonent.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\NextVowelOrConsonent\obj\Debug\net10.0\NextVowelOrConsonent.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\NextVowelOrConsonent\obj\Debug\net10.0\NextVowelOrConsonent.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day13_27jan2026\NextVowelOrConsonent\obj\Debug\net10.0\ref\NextVowelOrConsonent.dll

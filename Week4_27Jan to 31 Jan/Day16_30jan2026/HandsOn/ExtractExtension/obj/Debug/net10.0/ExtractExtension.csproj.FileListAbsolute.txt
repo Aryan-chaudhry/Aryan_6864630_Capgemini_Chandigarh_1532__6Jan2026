@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\ExtractExtension\bin\Debug\net10.0\ExtractExtension.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\ExtractExtension\bin\Debug\net10.0\ExtractExtension.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\ExtractExtension\bin\Debug\net10.0\ExtractExtension.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\ExtractExtension\bin\Debug\net10.0\ExtractExtension.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\ExtractExtension\bin\Debug\net10.0\ExtractExtension.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\ExtractExtension\obj\Debug\net10.0\ExtractExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\ExtractExtension\obj\Debug\net10.0\ExtractExtension.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\ExtractExtension\obj\Debug\net10.0\ExtractExtension.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\ExtractExtension\obj\Debug\net10.0\ExtractExtension.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\ExtractExtension\obj\Debug\net10.0\ExtractExtension.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\ExtractExtension\obj\Debug\net10.0\refint\ExtractExtension.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\ExtractExtension\obj\Debug\net10.0\ExtractExtension.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\ExtractExtension\obj\Debug\net10.0\ExtractExtension.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\ExtractExtension\obj\Debug\net10.0\ref\ExtractExtension.dll

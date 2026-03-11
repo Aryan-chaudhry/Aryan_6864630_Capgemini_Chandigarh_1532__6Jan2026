@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\SumOfCouple\bin\Debug\net10.0\SumOfCouple.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\SumOfCouple\bin\Debug\net10.0\SumOfCouple.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\SumOfCouple\bin\Debug\net10.0\SumOfCouple.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\SumOfCouple\bin\Debug\net10.0\SumOfCouple.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\SumOfCouple\bin\Debug\net10.0\SumOfCouple.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\SumOfCouple\obj\Debug\net10.0\SumOfCouple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\SumOfCouple\obj\Debug\net10.0\SumOfCouple.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\SumOfCouple\obj\Debug\net10.0\SumOfCouple.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\SumOfCouple\obj\Debug\net10.0\SumOfCouple.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\SumOfCouple\obj\Debug\net10.0\SumOfCouple.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\SumOfCouple\obj\Debug\net10.0\refint\SumOfCouple.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\SumOfCouple\obj\Debug\net10.0\SumOfCouple.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\SumOfCouple\obj\Debug\net10.0\SumOfCouple.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\SumOfCouple\obj\Debug\net10.0\ref\SumOfCouple.dll

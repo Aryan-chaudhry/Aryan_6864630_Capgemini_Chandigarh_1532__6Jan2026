@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\AverageOfArray\bin\Debug\net10.0\AverageOfArray.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\AverageOfArray\bin\Debug\net10.0\AverageOfArray.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\AverageOfArray\bin\Debug\net10.0\AverageOfArray.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\AverageOfArray\bin\Debug\net10.0\AverageOfArray.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\AverageOfArray\bin\Debug\net10.0\AverageOfArray.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\AverageOfArray\obj\Debug\net10.0\AverageOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\AverageOfArray\obj\Debug\net10.0\AverageOfArray.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\AverageOfArray\obj\Debug\net10.0\AverageOfArray.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\AverageOfArray\obj\Debug\net10.0\AverageOfArray.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\AverageOfArray\obj\Debug\net10.0\AverageOfArray.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\AverageOfArray\obj\Debug\net10.0\refint\AverageOfArray.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\AverageOfArray\obj\Debug\net10.0\AverageOfArray.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\AverageOfArray\obj\Debug\net10.0\AverageOfArray.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\AverageOfArray\obj\Debug\net10.0\ref\AverageOfArray.dll

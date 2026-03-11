@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\DeleteAlternateChar\bin\Debug\net10.0\DeleteAlternateChar.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\DeleteAlternateChar\bin\Debug\net10.0\DeleteAlternateChar.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\DeleteAlternateChar\bin\Debug\net10.0\DeleteAlternateChar.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\DeleteAlternateChar\bin\Debug\net10.0\DeleteAlternateChar.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\DeleteAlternateChar\bin\Debug\net10.0\DeleteAlternateChar.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\DeleteAlternateChar\obj\Debug\net10.0\DeleteAlternateChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\DeleteAlternateChar\obj\Debug\net10.0\DeleteAlternateChar.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\DeleteAlternateChar\obj\Debug\net10.0\DeleteAlternateChar.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\DeleteAlternateChar\obj\Debug\net10.0\DeleteAlternateChar.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\DeleteAlternateChar\obj\Debug\net10.0\DeleteAlternateChar.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\DeleteAlternateChar\obj\Debug\net10.0\refint\DeleteAlternateChar.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\DeleteAlternateChar\obj\Debug\net10.0\DeleteAlternateChar.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\DeleteAlternateChar\obj\Debug\net10.0\DeleteAlternateChar.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\DeleteAlternateChar\obj\Debug\net10.0\ref\DeleteAlternateChar.dll

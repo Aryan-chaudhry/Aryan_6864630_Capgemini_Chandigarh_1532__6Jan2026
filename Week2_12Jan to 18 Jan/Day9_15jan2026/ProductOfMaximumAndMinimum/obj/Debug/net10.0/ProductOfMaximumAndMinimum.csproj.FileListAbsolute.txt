@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\ProductOfMaximumAndMinimum\bin\Debug\net10.0\ProductOfMaximumAndMinimum.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\ProductOfMaximumAndMinimum\bin\Debug\net10.0\ProductOfMaximumAndMinimum.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\ProductOfMaximumAndMinimum\bin\Debug\net10.0\ProductOfMaximumAndMinimum.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\ProductOfMaximumAndMinimum\bin\Debug\net10.0\ProductOfMaximumAndMinimum.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\ProductOfMaximumAndMinimum\bin\Debug\net10.0\ProductOfMaximumAndMinimum.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\ProductOfMaximumAndMinimum\obj\Debug\net10.0\ProductOfMaximumAndMinimum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\ProductOfMaximumAndMinimum\obj\Debug\net10.0\ProductOfMaximumAndMinimum.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\ProductOfMaximumAndMinimum\obj\Debug\net10.0\ProductOfMaximumAndMinimum.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\ProductOfMaximumAndMinimum\obj\Debug\net10.0\ProductOfMaximumAndMinimum.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\ProductOfMaximumAndMinimum\obj\Debug\net10.0\ProductOfMaximumAndMinimum.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\ProductOfMaximumAndMinimum\obj\Debug\net10.0\refint\ProductOfMaximumAndMinimum.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\ProductOfMaximumAndMinimum\obj\Debug\net10.0\ProductOfMaximumAndMinimum.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\ProductOfMaximumAndMinimum\obj\Debug\net10.0\ProductOfMaximumAndMinimum.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day9_15jan2026\ProductOfMaximumAndMinimum\obj\Debug\net10.0\ref\ProductOfMaximumAndMinimum.dll

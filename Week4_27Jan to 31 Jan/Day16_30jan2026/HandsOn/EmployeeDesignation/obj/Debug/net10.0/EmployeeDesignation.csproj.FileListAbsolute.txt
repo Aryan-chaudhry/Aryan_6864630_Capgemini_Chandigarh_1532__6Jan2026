@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\EmployeeDesignation\bin\Debug\net10.0\EmployeeDesignation.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\EmployeeDesignation\bin\Debug\net10.0\EmployeeDesignation.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\EmployeeDesignation\bin\Debug\net10.0\EmployeeDesignation.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\EmployeeDesignation\bin\Debug\net10.0\EmployeeDesignation.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\EmployeeDesignation\bin\Debug\net10.0\EmployeeDesignation.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\EmployeeDesignation\obj\Debug\net10.0\EmployeeDesignation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\EmployeeDesignation\obj\Debug\net10.0\EmployeeDesignation.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\EmployeeDesignation\obj\Debug\net10.0\EmployeeDesignation.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\EmployeeDesignation\obj\Debug\net10.0\EmployeeDesignation.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\EmployeeDesignation\obj\Debug\net10.0\EmployeeDesignation.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\EmployeeDesignation\obj\Debug\net10.0\refint\EmployeeDesignation.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\EmployeeDesignation\obj\Debug\net10.0\EmployeeDesignation.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\EmployeeDesignation\obj\Debug\net10.0\EmployeeDesignation.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\EmployeeDesignation\obj\Debug\net10.0\ref\EmployeeDesignation.dll

@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\CaseStudy\CompanyProject\bin\Debug\net10.0\CompanyProject.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\CaseStudy\CompanyProject\bin\Debug\net10.0\CompanyProject.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\CaseStudy\CompanyProject\bin\Debug\net10.0\CompanyProject.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\CaseStudy\CompanyProject\bin\Debug\net10.0\CompanyProject.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\CaseStudy\CompanyProject\bin\Debug\net10.0\CompanyProject.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\CaseStudy\CompanyProject\obj\Debug\net10.0\CompanyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\CaseStudy\CompanyProject\obj\Debug\net10.0\CompanyProject.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\CaseStudy\CompanyProject\obj\Debug\net10.0\CompanyProject.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\CaseStudy\CompanyProject\obj\Debug\net10.0\CompanyProject.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\CaseStudy\CompanyProject\obj\Debug\net10.0\CompanyProject.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\CaseStudy\CompanyProject\obj\Debug\net10.0\refint\CompanyProject.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\CaseStudy\CompanyProject\obj\Debug\net10.0\CompanyProject.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\CaseStudy\CompanyProject\obj\Debug\net10.0\CompanyProject.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\CaseStudy\CompanyProject\obj\Debug\net10.0\ref\CompanyProject.dll

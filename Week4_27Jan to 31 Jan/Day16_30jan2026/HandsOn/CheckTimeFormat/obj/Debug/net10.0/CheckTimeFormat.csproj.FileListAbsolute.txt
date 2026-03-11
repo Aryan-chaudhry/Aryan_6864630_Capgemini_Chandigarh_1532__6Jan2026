@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckTimeFormat\bin\Debug\net10.0\CheckTimeFormat.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckTimeFormat\bin\Debug\net10.0\CheckTimeFormat.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckTimeFormat\bin\Debug\net10.0\CheckTimeFormat.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckTimeFormat\bin\Debug\net10.0\CheckTimeFormat.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckTimeFormat\bin\Debug\net10.0\CheckTimeFormat.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckTimeFormat\obj\Debug\net10.0\CheckTimeFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckTimeFormat\obj\Debug\net10.0\CheckTimeFormat.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckTimeFormat\obj\Debug\net10.0\CheckTimeFormat.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckTimeFormat\obj\Debug\net10.0\CheckTimeFormat.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckTimeFormat\obj\Debug\net10.0\CheckTimeFormat.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckTimeFormat\obj\Debug\net10.0\refint\CheckTimeFormat.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckTimeFormat\obj\Debug\net10.0\CheckTimeFormat.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckTimeFormat\obj\Debug\net10.0\CheckTimeFormat.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\CheckTimeFormat\obj\Debug\net10.0\ref\CheckTimeFormat.dll

@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\LocationCode\bin\Debug\net10.0\LocationCode.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\LocationCode\bin\Debug\net10.0\LocationCode.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\LocationCode\bin\Debug\net10.0\LocationCode.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\LocationCode\bin\Debug\net10.0\LocationCode.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\LocationCode\bin\Debug\net10.0\LocationCode.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\LocationCode\obj\Debug\net10.0\LocationCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\LocationCode\obj\Debug\net10.0\LocationCode.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\LocationCode\obj\Debug\net10.0\LocationCode.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\LocationCode\obj\Debug\net10.0\LocationCode.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\LocationCode\obj\Debug\net10.0\LocationCode.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\LocationCode\obj\Debug\net10.0\refint\LocationCode.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\LocationCode\obj\Debug\net10.0\LocationCode.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\LocationCode\obj\Debug\net10.0\LocationCode.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day18_3Feb2026\LocationCode\obj\Debug\net10.0\ref\LocationCode.dll

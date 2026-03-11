@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\OnlyNumber\bin\Debug\net10.0\OnlyNumber.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\OnlyNumber\bin\Debug\net10.0\OnlyNumber.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\OnlyNumber\bin\Debug\net10.0\OnlyNumber.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\OnlyNumber\bin\Debug\net10.0\OnlyNumber.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\OnlyNumber\bin\Debug\net10.0\OnlyNumber.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\OnlyNumber\obj\Debug\net10.0\OnlyNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\OnlyNumber\obj\Debug\net10.0\OnlyNumber.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\OnlyNumber\obj\Debug\net10.0\OnlyNumber.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\OnlyNumber\obj\Debug\net10.0\OnlyNumber.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\OnlyNumber\obj\Debug\net10.0\OnlyNumber.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\OnlyNumber\obj\Debug\net10.0\refint\OnlyNumber.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\OnlyNumber\obj\Debug\net10.0\OnlyNumber.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\OnlyNumber\obj\Debug\net10.0\OnlyNumber.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\OnlyNumber\obj\Debug\net10.0\ref\OnlyNumber.dll

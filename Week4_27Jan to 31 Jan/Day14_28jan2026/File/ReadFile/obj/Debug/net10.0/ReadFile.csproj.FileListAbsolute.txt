@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\File\ReadFile\bin\Debug\net10.0\ReadFile.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\File\ReadFile\bin\Debug\net10.0\ReadFile.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\File\ReadFile\bin\Debug\net10.0\ReadFile.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\File\ReadFile\bin\Debug\net10.0\ReadFile.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\File\ReadFile\bin\Debug\net10.0\ReadFile.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\File\ReadFile\obj\Debug\net10.0\ReadFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\File\ReadFile\obj\Debug\net10.0\ReadFile.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\File\ReadFile\obj\Debug\net10.0\ReadFile.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\File\ReadFile\obj\Debug\net10.0\ReadFile.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\File\ReadFile\obj\Debug\net10.0\ReadFile.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\File\ReadFile\obj\Debug\net10.0\refint\ReadFile.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\File\ReadFile\obj\Debug\net10.0\ReadFile.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\File\ReadFile\obj\Debug\net10.0\ReadFile.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\File\ReadFile\obj\Debug\net10.0\ref\ReadFile.dll

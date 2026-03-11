@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\VowelGame\bin\Debug\net10.0\VowelGame.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\VowelGame\bin\Debug\net10.0\VowelGame.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\VowelGame\bin\Debug\net10.0\VowelGame.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\VowelGame\bin\Debug\net10.0\VowelGame.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\VowelGame\bin\Debug\net10.0\VowelGame.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\VowelGame\obj\Debug\net10.0\VowelGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\VowelGame\obj\Debug\net10.0\VowelGame.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\VowelGame\obj\Debug\net10.0\VowelGame.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\VowelGame\obj\Debug\net10.0\VowelGame.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\VowelGame\obj\Debug\net10.0\VowelGame.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\VowelGame\obj\Debug\net10.0\refint\VowelGame.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\VowelGame\obj\Debug\net10.0\VowelGame.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\VowelGame\obj\Debug\net10.0\VowelGame.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\VowelGame\obj\Debug\net10.0\ref\VowelGame.dll

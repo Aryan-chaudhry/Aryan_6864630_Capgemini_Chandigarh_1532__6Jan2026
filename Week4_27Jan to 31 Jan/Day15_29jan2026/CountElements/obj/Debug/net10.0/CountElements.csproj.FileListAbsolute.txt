@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\CountElements\bin\Debug\net10.0\CountElements.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\CountElements\bin\Debug\net10.0\CountElements.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\CountElements\bin\Debug\net10.0\CountElements.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\CountElements\bin\Debug\net10.0\CountElements.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\CountElements\bin\Debug\net10.0\CountElements.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\CountElements\obj\Debug\net10.0\CountElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\CountElements\obj\Debug\net10.0\CountElements.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\CountElements\obj\Debug\net10.0\CountElements.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\CountElements\obj\Debug\net10.0\CountElements.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\CountElements\obj\Debug\net10.0\CountElements.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\CountElements\obj\Debug\net10.0\refint\CountElements.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\CountElements\obj\Debug\net10.0\CountElements.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\CountElements\obj\Debug\net10.0\CountElements.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\CountElements\obj\Debug\net10.0\ref\CountElements.dll

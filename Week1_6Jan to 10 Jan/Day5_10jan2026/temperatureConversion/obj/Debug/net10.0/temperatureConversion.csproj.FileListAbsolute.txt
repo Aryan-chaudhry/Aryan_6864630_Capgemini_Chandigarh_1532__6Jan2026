@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\temperatureConversion\bin\Debug\net10.0\temperatureConversion.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\temperatureConversion\bin\Debug\net10.0\temperatureConversion.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\temperatureConversion\bin\Debug\net10.0\temperatureConversion.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\temperatureConversion\bin\Debug\net10.0\temperatureConversion.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\temperatureConversion\bin\Debug\net10.0\temperatureConversion.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\temperatureConversion\obj\Debug\net10.0\temperatureConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\temperatureConversion\obj\Debug\net10.0\temperatureConversion.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\temperatureConversion\obj\Debug\net10.0\temperatureConversion.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\temperatureConversion\obj\Debug\net10.0\temperatureConversion.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\temperatureConversion\obj\Debug\net10.0\temperatureConversion.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\temperatureConversion\obj\Debug\net10.0\refint\temperatureConversion.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\temperatureConversion\obj\Debug\net10.0\temperatureConversion.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\temperatureConversion\obj\Debug\net10.0\temperatureConversion.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\temperatureConversion\obj\Debug\net10.0\ref\temperatureConversion.dll

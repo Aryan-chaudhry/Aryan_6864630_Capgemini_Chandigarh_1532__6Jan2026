@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\Debugging\bin\Debug\net10.0\Debugging.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\Debugging\bin\Debug\net10.0\Debugging.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\Debugging\bin\Debug\net10.0\Debugging.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\Debugging\bin\Debug\net10.0\Debugging.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\Debugging\bin\Debug\net10.0\Debugging.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\Debugging\obj\Debug\net10.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\Debugging\obj\Debug\net10.0\Debugging.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\Debugging\obj\Debug\net10.0\Debugging.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\Debugging\obj\Debug\net10.0\Debugging.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\Debugging\obj\Debug\net10.0\Debugging.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\Debugging\obj\Debug\net10.0\refint\Debugging.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\Debugging\obj\Debug\net10.0\Debugging.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\Debugging\obj\Debug\net10.0\Debugging.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\Debugging\obj\Debug\net10.0\ref\Debugging.dll

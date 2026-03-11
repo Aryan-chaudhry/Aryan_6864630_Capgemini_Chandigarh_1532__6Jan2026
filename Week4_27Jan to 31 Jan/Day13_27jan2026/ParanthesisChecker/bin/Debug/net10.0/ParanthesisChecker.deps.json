@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ParanthesisChecker/1.0.0": {
+        "runtime": {
+          "ParanthesisChecker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ParanthesisChecker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

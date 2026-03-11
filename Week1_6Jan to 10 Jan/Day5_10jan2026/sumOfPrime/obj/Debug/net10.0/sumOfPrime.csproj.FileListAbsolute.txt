@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\sumOfPrime\bin\Debug\net10.0\sumOfPrime.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\sumOfPrime\bin\Debug\net10.0\sumOfPrime.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\sumOfPrime\bin\Debug\net10.0\sumOfPrime.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\sumOfPrime\bin\Debug\net10.0\sumOfPrime.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\sumOfPrime\bin\Debug\net10.0\sumOfPrime.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\sumOfPrime\obj\Debug\net10.0\sumOfPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\sumOfPrime\obj\Debug\net10.0\sumOfPrime.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\sumOfPrime\obj\Debug\net10.0\sumOfPrime.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\sumOfPrime\obj\Debug\net10.0\sumOfPrime.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\sumOfPrime\obj\Debug\net10.0\sumOfPrime.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\sumOfPrime\obj\Debug\net10.0\refint\sumOfPrime.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\sumOfPrime\obj\Debug\net10.0\sumOfPrime.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\sumOfPrime\obj\Debug\net10.0\sumOfPrime.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day5_10jan2026\sumOfPrime\obj\Debug\net10.0\ref\sumOfPrime.dll

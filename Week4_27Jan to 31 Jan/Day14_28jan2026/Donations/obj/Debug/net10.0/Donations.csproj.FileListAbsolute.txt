@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\Donations\bin\Debug\net10.0\Donations.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\Donations\bin\Debug\net10.0\Donations.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\Donations\bin\Debug\net10.0\Donations.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\Donations\bin\Debug\net10.0\Donations.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\Donations\bin\Debug\net10.0\Donations.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\Donations\obj\Debug\net10.0\Donations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\Donations\obj\Debug\net10.0\Donations.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\Donations\obj\Debug\net10.0\Donations.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\Donations\obj\Debug\net10.0\Donations.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\Donations\obj\Debug\net10.0\Donations.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\Donations\obj\Debug\net10.0\refint\Donations.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\Donations\obj\Debug\net10.0\Donations.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\Donations\obj\Debug\net10.0\Donations.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\Donations\obj\Debug\net10.0\ref\Donations.dll

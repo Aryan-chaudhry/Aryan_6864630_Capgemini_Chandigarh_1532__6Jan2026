@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\PipeSepratedWord\bin\Debug\net10.0\PipeSepratedWord.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\PipeSepratedWord\bin\Debug\net10.0\PipeSepratedWord.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\PipeSepratedWord\bin\Debug\net10.0\PipeSepratedWord.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\PipeSepratedWord\bin\Debug\net10.0\PipeSepratedWord.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\PipeSepratedWord\bin\Debug\net10.0\PipeSepratedWord.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\PipeSepratedWord\obj\Debug\net10.0\PipeSepratedWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\PipeSepratedWord\obj\Debug\net10.0\PipeSepratedWord.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\PipeSepratedWord\obj\Debug\net10.0\PipeSepratedWord.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\PipeSepratedWord\obj\Debug\net10.0\PipeSepratedWord.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\PipeSepratedWord\obj\Debug\net10.0\PipeSepratedWord.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\PipeSepratedWord\obj\Debug\net10.0\refint\PipeSepratedWord.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\PipeSepratedWord\obj\Debug\net10.0\PipeSepratedWord.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\PipeSepratedWord\obj\Debug\net10.0\PipeSepratedWord.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\PipeSepratedWord\obj\Debug\net10.0\ref\PipeSepratedWord.dll

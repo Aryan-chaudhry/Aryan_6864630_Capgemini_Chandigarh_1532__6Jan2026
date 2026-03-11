@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArrayMultiplication\bin\Debug\net10.0\ArrayMultiplication.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArrayMultiplication\bin\Debug\net10.0\ArrayMultiplication.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArrayMultiplication\bin\Debug\net10.0\ArrayMultiplication.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArrayMultiplication\bin\Debug\net10.0\ArrayMultiplication.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArrayMultiplication\bin\Debug\net10.0\ArrayMultiplication.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArrayMultiplication\obj\Debug\net10.0\ArrayMultiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArrayMultiplication\obj\Debug\net10.0\ArrayMultiplication.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArrayMultiplication\obj\Debug\net10.0\ArrayMultiplication.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArrayMultiplication\obj\Debug\net10.0\ArrayMultiplication.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArrayMultiplication\obj\Debug\net10.0\ArrayMultiplication.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArrayMultiplication\obj\Debug\net10.0\refint\ArrayMultiplication.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArrayMultiplication\obj\Debug\net10.0\ArrayMultiplication.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArrayMultiplication\obj\Debug\net10.0\ArrayMultiplication.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\ArrayMultiplication\obj\Debug\net10.0\ref\ArrayMultiplication.dll

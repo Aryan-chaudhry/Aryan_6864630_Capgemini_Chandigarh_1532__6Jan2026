@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\RomanToInteger\obj\Debug\net10.0\RomanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\RomanToInteger\obj\Debug\net10.0\RomanToInteger.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\RomanToInteger\obj\Debug\net10.0\RomanToInteger.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\RomanToInteger\obj\Debug\net10.0\RomanToInteger.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\RomanToInteger\bin\Debug\net10.0\RomanToInteger.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\RomanToInteger\bin\Debug\net10.0\RomanToInteger.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\RomanToInteger\bin\Debug\net10.0\RomanToInteger.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\RomanToInteger\bin\Debug\net10.0\RomanToInteger.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\RomanToInteger\bin\Debug\net10.0\RomanToInteger.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\RomanToInteger\obj\Debug\net10.0\RomanToInteger.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\RomanToInteger\obj\Debug\net10.0\refint\RomanToInteger.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\RomanToInteger\obj\Debug\net10.0\RomanToInteger.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\RomanToInteger\obj\Debug\net10.0\RomanToInteger.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day15_29jan2026\RomanToInteger\obj\Debug\net10.0\ref\RomanToInteger.dll

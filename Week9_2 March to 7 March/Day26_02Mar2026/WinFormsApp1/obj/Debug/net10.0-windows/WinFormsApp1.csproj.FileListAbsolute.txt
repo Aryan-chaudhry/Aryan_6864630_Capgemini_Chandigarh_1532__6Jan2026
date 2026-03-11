@@ -1,0 +1,16 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day26_02Mar2026\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day26_02Mar2026\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day26_02Mar2026\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day26_02Mar2026\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day26_02Mar2026\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day26_02Mar2026\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.Form2.resources
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day26_02Mar2026\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day26_02Mar2026\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day26_02Mar2026\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day26_02Mar2026\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day26_02Mar2026\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day26_02Mar2026\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day26_02Mar2026\WinFormsApp1\obj\Debug\net10.0-windows\refint\WinFormsApp1.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day26_02Mar2026\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day26_02Mar2026\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day26_02Mar2026\WinFormsApp1\obj\Debug\net10.0-windows\ref\WinFormsApp1.dll

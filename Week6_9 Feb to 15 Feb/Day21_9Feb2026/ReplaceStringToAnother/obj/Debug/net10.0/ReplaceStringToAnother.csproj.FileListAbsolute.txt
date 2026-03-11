@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ReplaceStringToAnother\bin\Debug\net10.0\ReplaceStringToAnother.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ReplaceStringToAnother\bin\Debug\net10.0\ReplaceStringToAnother.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ReplaceStringToAnother\bin\Debug\net10.0\ReplaceStringToAnother.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ReplaceStringToAnother\bin\Debug\net10.0\ReplaceStringToAnother.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ReplaceStringToAnother\bin\Debug\net10.0\ReplaceStringToAnother.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ReplaceStringToAnother\obj\Debug\net10.0\ReplaceStringToAnother.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ReplaceStringToAnother\obj\Debug\net10.0\ReplaceStringToAnother.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ReplaceStringToAnother\obj\Debug\net10.0\ReplaceStringToAnother.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ReplaceStringToAnother\obj\Debug\net10.0\ReplaceStringToAnother.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ReplaceStringToAnother\obj\Debug\net10.0\ReplaceStringToAnother.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ReplaceStringToAnother\obj\Debug\net10.0\refint\ReplaceStringToAnother.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ReplaceStringToAnother\obj\Debug\net10.0\ReplaceStringToAnother.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ReplaceStringToAnother\obj\Debug\net10.0\ReplaceStringToAnother.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day21_9Feb2026\ReplaceStringToAnother\obj\Debug\net10.0\ref\ReplaceStringToAnother.dll

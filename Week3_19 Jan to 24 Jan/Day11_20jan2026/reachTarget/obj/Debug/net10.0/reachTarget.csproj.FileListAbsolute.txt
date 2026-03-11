@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\reachTarget\obj\Debug\net10.0\reachTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\reachTarget\obj\Debug\net10.0\reachTarget.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\reachTarget\obj\Debug\net10.0\reachTarget.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\reachTarget\obj\Debug\net10.0\reachTarget.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\reachTarget\bin\Debug\net10.0\reachTarget.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\reachTarget\bin\Debug\net10.0\reachTarget.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\reachTarget\bin\Debug\net10.0\reachTarget.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\reachTarget\bin\Debug\net10.0\reachTarget.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\reachTarget\bin\Debug\net10.0\reachTarget.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\reachTarget\obj\Debug\net10.0\reachTarget.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\reachTarget\obj\Debug\net10.0\refint\reachTarget.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\reachTarget\obj\Debug\net10.0\reachTarget.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\reachTarget\obj\Debug\net10.0\reachTarget.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day11_20jan2026\reachTarget\obj\Debug\net10.0\ref\reachTarget.dll

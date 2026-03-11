@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DigitSumInArray\bin\Debug\net10.0\DigitSumInArray.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DigitSumInArray\bin\Debug\net10.0\DigitSumInArray.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DigitSumInArray\bin\Debug\net10.0\DigitSumInArray.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DigitSumInArray\bin\Debug\net10.0\DigitSumInArray.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DigitSumInArray\bin\Debug\net10.0\DigitSumInArray.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DigitSumInArray\obj\Debug\net10.0\DigitSumInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DigitSumInArray\obj\Debug\net10.0\DigitSumInArray.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DigitSumInArray\obj\Debug\net10.0\DigitSumInArray.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DigitSumInArray\obj\Debug\net10.0\DigitSumInArray.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DigitSumInArray\obj\Debug\net10.0\DigitSumInArray.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DigitSumInArray\obj\Debug\net10.0\refint\DigitSumInArray.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DigitSumInArray\obj\Debug\net10.0\DigitSumInArray.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DigitSumInArray\obj\Debug\net10.0\DigitSumInArray.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day16_30jan2026\HandsOn\DigitSumInArray\obj\Debug\net10.0\ref\DigitSumInArray.dll

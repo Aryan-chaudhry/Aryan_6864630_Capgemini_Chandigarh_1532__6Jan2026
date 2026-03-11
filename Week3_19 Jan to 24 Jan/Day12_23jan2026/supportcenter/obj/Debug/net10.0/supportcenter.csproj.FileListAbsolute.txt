@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\supportcenter\bin\Debug\net10.0\supportcenter.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\supportcenter\bin\Debug\net10.0\supportcenter.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\supportcenter\bin\Debug\net10.0\supportcenter.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\supportcenter\bin\Debug\net10.0\supportcenter.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\supportcenter\bin\Debug\net10.0\supportcenter.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\supportcenter\obj\Debug\net10.0\supportcenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\supportcenter\obj\Debug\net10.0\supportcenter.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\supportcenter\obj\Debug\net10.0\supportcenter.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\supportcenter\obj\Debug\net10.0\supportcenter.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\supportcenter\obj\Debug\net10.0\supportcenter.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\supportcenter\obj\Debug\net10.0\refint\supportcenter.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\supportcenter\obj\Debug\net10.0\supportcenter.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\supportcenter\obj\Debug\net10.0\supportcenter.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day12_23jan2026\supportcenter\obj\Debug\net10.0\ref\supportcenter.dll

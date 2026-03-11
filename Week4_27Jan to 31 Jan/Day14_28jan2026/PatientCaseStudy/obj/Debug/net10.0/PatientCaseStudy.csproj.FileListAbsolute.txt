@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\PatientCaseStudy\bin\Debug\net10.0\PatientCaseStudy.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\PatientCaseStudy\bin\Debug\net10.0\PatientCaseStudy.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\PatientCaseStudy\bin\Debug\net10.0\PatientCaseStudy.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\PatientCaseStudy\bin\Debug\net10.0\PatientCaseStudy.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\PatientCaseStudy\bin\Debug\net10.0\PatientCaseStudy.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\PatientCaseStudy\obj\Debug\net10.0\PatientCaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\PatientCaseStudy\obj\Debug\net10.0\PatientCaseStudy.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\PatientCaseStudy\obj\Debug\net10.0\PatientCaseStudy.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\PatientCaseStudy\obj\Debug\net10.0\PatientCaseStudy.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\PatientCaseStudy\obj\Debug\net10.0\PatientCaseStudy.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\PatientCaseStudy\obj\Debug\net10.0\refint\PatientCaseStudy.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\PatientCaseStudy\obj\Debug\net10.0\PatientCaseStudy.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\PatientCaseStudy\obj\Debug\net10.0\PatientCaseStudy.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day14_28jan2026\PatientCaseStudy\obj\Debug\net10.0\ref\PatientCaseStudy.dll

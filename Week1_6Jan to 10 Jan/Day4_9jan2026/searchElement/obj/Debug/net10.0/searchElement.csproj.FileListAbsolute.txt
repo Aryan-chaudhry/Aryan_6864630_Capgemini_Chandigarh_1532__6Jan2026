@@ -1,0 +1,14 @@
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\searchElement\bin\Debug\net10.0\searchElement.exe
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\searchElement\bin\Debug\net10.0\searchElement.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\searchElement\bin\Debug\net10.0\searchElement.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\searchElement\bin\Debug\net10.0\searchElement.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\searchElement\bin\Debug\net10.0\searchElement.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\searchElement\obj\Debug\net10.0\searchElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\searchElement\obj\Debug\net10.0\searchElement.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\searchElement\obj\Debug\net10.0\searchElement.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\searchElement\obj\Debug\net10.0\searchElement.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\searchElement\obj\Debug\net10.0\searchElement.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\searchElement\obj\Debug\net10.0\refint\searchElement.dll
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\searchElement\obj\Debug\net10.0\searchElement.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\searchElement\obj\Debug\net10.0\searchElement.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_Aryan\Day4_9jan2026\searchElement\obj\Debug\net10.0\ref\searchElement.dll
