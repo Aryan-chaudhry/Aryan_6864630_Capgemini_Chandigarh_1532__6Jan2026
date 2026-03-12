@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Case Studt Hospital Management System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a512040bc8e46a583c9f82ccea9aeb78f8ac54a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4da87c010e7e3a1a9e92b8aaa618724b95d5899a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Case Studt Hospital Management System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Case Studt Hospital Management System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

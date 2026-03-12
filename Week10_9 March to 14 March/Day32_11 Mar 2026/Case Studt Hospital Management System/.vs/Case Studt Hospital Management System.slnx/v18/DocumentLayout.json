@@ -1,66 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\",
+  "WorkspaceRootPath": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|solutionrelative:views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|solutionrelative:views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|solutionrelative:views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|solutionrelative:controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|solutionrelative:views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|solutionrelative:controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|solutionrelative:controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|c:\\capgemini_cu_sec3_.netwithazure_aryan\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{644FC9F0-1791-4575-A753-98BB4EF9116B}|Case Studt Hospital Management System.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|solutionrelative:controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Models\\HospitalDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\HospitalDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day32_11 mar 2026\\case studt hospital management system\\models\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555640F3-53AA-C079-6116-7457B1405733}|Case Studt Hospital Management System.csproj|solutionrelative:models\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,198 +82,185 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Appointments\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Appointments\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Appointments\\Index.cshtml",
-              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Appointments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Appointments\\Index.cshtml",
               "RelativeToolTip": "Views\\Appointments\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABgAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-11T06:52:20.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Appointments\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Appointments\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Appointments\\Create.cshtml",
-              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Appointments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Appointments\\Create.cshtml",
               "RelativeToolTip": "Views\\Appointments\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-11T06:45:33.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T06:45:33.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-11T06:39:43.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T06:39:43.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Appointment.cs",
-              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Models\\Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "Models\\Appointment.cs",
-              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Models\\Appointment.cs",
               "RelativeToolTip": "Models\\Appointment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T06:38:02.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABMAAAAAAAAAAAAqwCsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-11T06:34:03.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T06:34:03.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-11T06:33:38.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T06:33:38.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-11T06:33:28.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T06:33:28.883Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-11T06:31:31.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T06:31:31.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T06:31:28.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAiwJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:17:46.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAiwJMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:17:19.135Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-11T06:31:28.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PatientsController.cs",
-              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Controllers\\PatientsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
-              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Controllers\\PatientsController.cs",
-              "RelativeToolTip": "Controllers\\PatientsController.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAiwJwAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T06:17:46.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DoctorsController.cs",
-              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Controllers\\DoctorsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
-              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Controllers\\DoctorsController.cs",
-              "RelativeToolTip": "Controllers\\DoctorsController.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAiwJMAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T06:17:19.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T06:13:55.071Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T06:13:55.071Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T06:12:43.118Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-11T06:12:43.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "AppointmentsController.cs",
-              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Controllers\\AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Controllers\\AppointmentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\AppointmentsController.cs",
-              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Controllers\\AppointmentsController.cs",
               "RelativeToolTip": "Controllers\\AppointmentsController.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAmwDcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T06:12:23.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T06:12:23.231Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "HospitalDbContext.cs",
-              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Models\\HospitalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Models\\HospitalDbContext.cs",
               "RelativeDocumentMoniker": "Models\\HospitalDbContext.cs",
-              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Models\\HospitalDbContext.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Models\\HospitalDbContext.cs",
               "RelativeToolTip": "Models\\HospitalDbContext.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T06:11:36.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T06:11:36.633Z"
             }
           ]
         },

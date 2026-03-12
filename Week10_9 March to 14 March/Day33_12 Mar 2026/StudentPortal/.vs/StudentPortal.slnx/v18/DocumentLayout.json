@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day33_12 Mar 2026\\StudentPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E33D6-1F27-4857-BCF2-55C7A2D03D8D}|StudentPortal.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day33_12 mar 2026\\studentportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4E33D6-1F27-4857-BCF2-55C7A2D03D8D}|StudentPortal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E33D6-1F27-4857-BCF2-55C7A2D03D8D}|StudentPortal.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day33_12 mar 2026\\studentportal\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4E33D6-1F27-4857-BCF2-55C7A2D03D8D}|StudentPortal.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E33D6-1F27-4857-BCF2-55C7A2D03D8D}|StudentPortal.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day33_12 mar 2026\\studentportal\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4E33D6-1F27-4857-BCF2-55C7A2D03D8D}|StudentPortal.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E33D6-1F27-4857-BCF2-55C7A2D03D8D}|StudentPortal.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day33_12 mar 2026\\studentportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C4E33D6-1F27-4857-BCF2-55C7A2D03D8D}|StudentPortal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E33D6-1F27-4857-BCF2-55C7A2D03D8D}|StudentPortal.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day33_12 mar 2026\\studentportal\\middleware\\requesttrackingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4E33D6-1F27-4857-BCF2-55C7A2D03D8D}|StudentPortal.csproj|solutionrelative:middleware\\requesttrackingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E33D6-1F27-4857-BCF2-55C7A2D03D8D}|StudentPortal.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day33_12 mar 2026\\studentportal\\services\\requestlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4E33D6-1F27-4857-BCF2-55C7A2D03D8D}|StudentPortal.csproj|solutionrelative:services\\requestlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E33D6-1F27-4857-BCF2-55C7A2D03D8D}|StudentPortal.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day33_12 mar 2026\\studentportal\\services\\irequestlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4E33D6-1F27-4857-BCF2-55C7A2D03D8D}|StudentPortal.csproj|solutionrelative:services\\irequestlogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E33D6-1F27-4857-BCF2-55C7A2D03D8D}|StudentPortal.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day33_12 mar 2026\\studentportal\\models\\requestlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4E33D6-1F27-4857-BCF2-55C7A2D03D8D}|StudentPortal.csproj|solutionrelative:models\\requestlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4E33D6-1F27-4857-BCF2-55C7A2D03D8D}|StudentPortal.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week10_9 march to 14 march\\day33_12 mar 2026\\studentportal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4E33D6-1F27-4857-BCF2-55C7A2D03D8D}|StudentPortal.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 272,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day33_12 Mar 2026\\StudentPortal\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day33_12 Mar 2026\\StudentPortal\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T06:42:40.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day33_12 Mar 2026\\StudentPortal\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day33_12 Mar 2026\\StudentPortal\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:41:47.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day33_12 Mar 2026\\StudentPortal\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day33_12 Mar 2026\\StudentPortal\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-12T06:40:23.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestTrackingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day33_12 Mar 2026\\StudentPortal\\Middleware\\RequestTrackingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\RequestTrackingMiddleware.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day33_12 Mar 2026\\StudentPortal\\Middleware\\RequestTrackingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\RequestTrackingMiddleware.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:40:07.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day33_12 Mar 2026\\StudentPortal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day33_12 Mar 2026\\StudentPortal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:39:20.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestLogService.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day33_12 Mar 2026\\StudentPortal\\Services\\RequestLogService.cs",
+              "RelativeDocumentMoniker": "Services\\RequestLogService.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day33_12 Mar 2026\\StudentPortal\\Services\\RequestLogService.cs",
+              "RelativeToolTip": "Services\\RequestLogService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:39:08.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRequestLogService.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day33_12 Mar 2026\\StudentPortal\\Services\\IRequestLogService.cs",
+              "RelativeDocumentMoniker": "Services\\IRequestLogService.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day33_12 Mar 2026\\StudentPortal\\Services\\IRequestLogService.cs",
+              "RelativeToolTip": "Services\\IRequestLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:38:30.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RequestLog.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day33_12 Mar 2026\\StudentPortal\\Models\\RequestLog.cs",
+              "RelativeDocumentMoniker": "Models\\RequestLog.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day33_12 Mar 2026\\StudentPortal\\Models\\RequestLog.cs",
+              "RelativeToolTip": "Models\\RequestLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:37:43.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day33_12 Mar 2026\\StudentPortal\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day33_12 Mar 2026\\StudentPortal\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:34:47.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 120,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

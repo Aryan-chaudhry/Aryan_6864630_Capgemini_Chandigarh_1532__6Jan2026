@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mVC7T5OosJ0=",
+  "dgSpecHash": "Nqj138paRNk=",
   "success": true,
-  "projectFilePath": "C:\\Capgemini_CU_sec3_.netWithAzure_Aryan\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Case Studt Hospital Management System.csproj",
+  "projectFilePath": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week10_9 March to 14 March\\Day32_11 Mar 2026\\Case Studt Hospital Management System\\Case Studt Hospital Management System.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ARYAN\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\ARYAN\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
