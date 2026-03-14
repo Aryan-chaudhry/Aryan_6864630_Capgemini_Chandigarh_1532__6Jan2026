@@ -1,0 +1,33 @@
+@model Employee_Management.Models.Department
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Department</h4>
+<hr />
+<div >
+    <div >
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly"></div>
+            <div >
+                <label asp-for="DepartmentName" ></label>
+                <input asp-for="DepartmentName"  />
+                <span asp-validation-for="DepartmentName" ></span>
+            </div>
+            <div >
+                <input type="submit" value="Create"  />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

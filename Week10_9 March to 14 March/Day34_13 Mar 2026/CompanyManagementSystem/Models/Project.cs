@@ -1,4 +1,6 @@
-﻿namespace CompanyManagementSystem.Models
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+
+namespace CompanyManagementSystem.Models
 {
     public class Project
     {
@@ -11,7 +13,7 @@
 		public DateTime EndDate { get; set; }
 
 		public int CompanyId { get; set; }
-
+		[ValidateNever]
 		public Company Company { get; set; }
 	}
 }

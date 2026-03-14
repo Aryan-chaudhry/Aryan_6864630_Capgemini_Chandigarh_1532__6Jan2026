@@ -1,4 +1,5 @@
-﻿using Microsoft.Identity.Client;
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using Microsoft.Identity.Client;
 
 namespace CompanyManagementSystem.Models
 {
@@ -14,11 +15,12 @@ namespace CompanyManagementSystem.Models
 
         public int CompanyId { get; set; }
 
+        [ValidateNever]
         public Company Company { get; set; }
-
-        public int DepartmentId { get; set; }
-
-        public Department Department { get; set; }
+		
+		public int DepartmentId { get; set; }
+		[ValidateNever]
+		public Department Department { get; set; }
 
        
     }
