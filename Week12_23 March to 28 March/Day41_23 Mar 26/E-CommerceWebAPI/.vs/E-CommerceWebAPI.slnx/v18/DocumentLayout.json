@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week12_23 march to 28 march\\day41_23 mar 26\\e-commercewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week12_23 march to 28 march\\day41_23 mar 26\\e-commercewebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week12_23 march to 28 march\\day41_23 mar 26\\e-commercewebapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week12_23 march to 28 march\\day41_23 mar 26\\e-commercewebapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week12_23 march to 28 march\\day41_23 mar 26\\e-commercewebapi\\migrations\\20260325050758_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|solutionrelative:migrations\\20260325050758_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week12_23 march to 28 march\\day41_23 mar 26\\e-commercewebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week12_23 march to 28 march\\day41_23 mar 26\\e-commercewebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week12_23 march to 28 march\\day41_23 mar 26\\e-commercewebapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week12_23 march to 28 march\\day41_23 mar 26\\e-commercewebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week12_23 march to 28 march\\day41_23 mar 26\\e-commercewebapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D48C4B-FD70-C91C-887A-5B9E59C506B0}|E-CommerceWebAPI.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:13:19.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:10:58.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260325050758_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\Migrations\\20260325050758_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260325050758_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\Migrations\\20260325050758_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260325050758_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:07:58.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:06:57.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-25T05:06:19.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:14:10.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:03:48.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:02:58.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:02:06.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day41_23 Mar 26\\E-CommerceWebAPI\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T05:01:21.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

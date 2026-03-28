@@ -1,0 +1,285 @@
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/log4net.config
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/appsettings.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/SecureJwtLoggingAPI
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/SecureJwtLoggingAPI.deps.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/SecureJwtLoggingAPI.runtimeconfig.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/SecureJwtLoggingAPI.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/SecureJwtLoggingAPI.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Azure.Core.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Azure.Identity.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Humanizer.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/log4net.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/System.CodeDom.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/SecureJwtLoggingAPI.csproj.AssemblyReference.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/SecureJwtLoggingAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/SecureJwtLoggingAPI.AssemblyInfoInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/SecureJwtLoggingAPI.AssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/SecureJwtLoggingAPI.csproj.CoreCompileInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/SecureJwtLoggingAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/SecureJwtLoggingAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/SecureJwtLoggingAPI.sourcelink.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/staticwebassets/msbuild.SecureJwtLoggingAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.SecureJwtLoggingAPI.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.SecureJwtLoggingAPI.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.SecureJwtLoggingAPI.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/scopedcss/bundle/SecureJwtLoggingAPI.styles.css
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/SecureJw.1613227B.Up2Date
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/SecureJwtLoggingAPI.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/refint/SecureJwtLoggingAPI.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/SecureJwtLoggingAPI.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/SecureJwtLoggingAPI.genruntimeconfig.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/SecureJwtLoggingAPI/obj/Debug/net8.0/ref/SecureJwtLoggingAPI.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\log4net.config
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\SecureJwtLoggingAPI.staticwebassets.endpoints.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\SecureJwtLoggingAPI.exe
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\SecureJwtLoggingAPI.deps.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\SecureJwtLoggingAPI.runtimeconfig.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\SecureJwtLoggingAPI.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\SecureJwtLoggingAPI.pdb
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\log4net.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\SecureJwtLoggingAPI.csproj.AssemblyReference.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\SecureJwtLoggingAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\SecureJwtLoggingAPI.AssemblyInfoInputs.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\SecureJwtLoggingAPI.AssemblyInfo.cs
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\SecureJwtLoggingAPI.csproj.CoreCompileInputs.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\SecureJwtLoggingAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\SecureJwtLoggingAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\SecureJwtLoggingAPI.sourcelink.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\scopedcss\bundle\SecureJwtLoggingAPI.styles.css
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\SecureJw.1613227B.Up2Date
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\SecureJwtLoggingAPI.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\refint\SecureJwtLoggingAPI.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\SecureJwtLoggingAPI.pdb
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\SecureJwtLoggingAPI.genruntimeconfig.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day45_27 Mar 26\SecureJwtLoggingAPI\obj\Debug\net8.0\ref\SecureJwtLoggingAPI.dll

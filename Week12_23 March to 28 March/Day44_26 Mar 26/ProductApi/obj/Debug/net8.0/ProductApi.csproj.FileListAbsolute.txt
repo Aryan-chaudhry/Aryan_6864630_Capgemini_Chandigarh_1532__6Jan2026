@@ -1,0 +1,108 @@
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/appsettings.Development.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/appsettings.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/ProductApi
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/ProductApi.deps.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/ProductApi.runtimeconfig.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/ProductApi.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/ProductApi.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.csproj.AssemblyReference.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.AssemblyInfoInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.AssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.csproj.CoreCompileInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.sourcelink.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/staticwebassets/msbuild.ProductApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/staticwebassets/msbuild.build.ProductApi.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ProductApi.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ProductApi.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/scopedcss/bundle/ProductApi.styles.css
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.csproj.Up2Date
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/refint/ProductApi.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ProductApi.genruntimeconfig.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/ProductApi/obj/Debug/net8.0/ref/ProductApi.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\bin\Debug\net8.0\appsettings.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\bin\Debug\net8.0\ProductApi.staticwebassets.endpoints.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\bin\Debug\net8.0\ProductApi.exe
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\bin\Debug\net8.0\ProductApi.deps.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\bin\Debug\net8.0\ProductApi.runtimeconfig.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\bin\Debug\net8.0\ProductApi.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\bin\Debug\net8.0\ProductApi.pdb
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.csproj.AssemblyReference.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfoInputs.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfo.cs
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.csproj.CoreCompileInputs.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.sourcelink.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\scopedcss\bundle\ProductApi.styles.css
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.csproj.Up2Date
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\refint\ProductApi.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.pdb
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.genruntimeconfig.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day43_25 Mar 26\ProductApi\obj\Debug\net8.0\ref\ProductApi.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\bin\Debug\net8.0\appsettings.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\bin\Debug\net8.0\ProductApi.staticwebassets.endpoints.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\bin\Debug\net8.0\ProductApi.exe
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\bin\Debug\net8.0\ProductApi.deps.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\bin\Debug\net8.0\ProductApi.runtimeconfig.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\bin\Debug\net8.0\ProductApi.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\bin\Debug\net8.0\ProductApi.pdb
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.csproj.AssemblyReference.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfoInputs.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.AssemblyInfo.cs
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.csproj.CoreCompileInputs.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.sourcelink.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\scopedcss\bundle\ProductApi.styles.css
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.csproj.Up2Date
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\refint\ProductApi.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.pdb
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\ProductApi.genruntimeconfig.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week12_23 March to 28 March\Day44_26 Mar 26\ProductApi\obj\Debug\net8.0\ref\ProductApi.dll

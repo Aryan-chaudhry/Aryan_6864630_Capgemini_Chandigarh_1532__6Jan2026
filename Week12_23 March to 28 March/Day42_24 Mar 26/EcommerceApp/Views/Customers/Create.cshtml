@@ -1,0 +1,23 @@
+﻿@model EcommerceApp.Models.Customer
+
+<h2 class="text-center">Add Customer</h2>
+
+<div class="d-flex justify-content-center align-content-center ">
+    <div class="card border-0 rounded-3 shadow p-4 m-4 w-50">
+        <form asp-action="Create" method="post">
+            <div class="mb-3">
+                <label class="form-label">Name</label>
+                <input asp-for="Name" class="form-control" placeholder="Enter Customer Name" />
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Email</label>
+                <input asp-for="Email" class="form-control"  placeholder="abcd@gmail.com"/>
+            </div>
+
+            <div class="mb-3 d-flex justify-content-center align-content-center">
+                <button type="submit" class="btn btn-dark">Save Customer</button>
+            </div>
+        </form>
+    </div>
+</div>

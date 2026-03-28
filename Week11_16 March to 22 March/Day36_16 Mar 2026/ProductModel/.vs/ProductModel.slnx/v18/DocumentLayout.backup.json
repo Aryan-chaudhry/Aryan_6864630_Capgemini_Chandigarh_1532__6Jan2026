@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\ProductModel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FA7C533-82AD-479D-8B09-0E0E8F316890}|ProductManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\productmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FA7C533-82AD-479D-8B09-0E0E8F316890}|ProductManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F0579E8-D4EC-3346-68B1-223742C55C0A}|ProductManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\productmodel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0579E8-D4EC-3346-68B1-223742C55C0A}|ProductManagement.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FA7C533-82AD-479D-8B09-0E0E8F316890}|ProductManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\productmodel\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FA7C533-82AD-479D-8B09-0E0E8F316890}|ProductManagement.csproj|solutionrelative:filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F0579E8-D4EC-3346-68B1-223742C55C0A}|ProductManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\productmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0579E8-D4EC-3346-68B1-223742C55C0A}|ProductManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FA7C533-82AD-479D-8B09-0E0E8F316890}|ProductManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\productmodel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FA7C533-82AD-479D-8B09-0E0E8F316890}|ProductManagement.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F0579E8-D4EC-3346-68B1-223742C55C0A}|ProductManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\productmodel\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0579E8-D4EC-3346-68B1-223742C55C0A}|ProductManagement.csproj|solutionrelative:filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FA7C533-82AD-479D-8B09-0E0E8F316890}|ProductManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\productmodel\\filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FA7C533-82AD-479D-8B09-0E0E8F316890}|ProductManagement.csproj|solutionrelative:filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F0579E8-D4EC-3346-68B1-223742C55C0A}|ProductManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\productmodel\\filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0579E8-D4EC-3346-68B1-223742C55C0A}|ProductManagement.csproj|solutionrelative:filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FA7C533-82AD-479D-8B09-0E0E8F316890}|ProductManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\productmodel\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FA7C533-82AD-479D-8B09-0E0E8F316890}|ProductManagement.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F0579E8-D4EC-3346-68B1-223742C55C0A}|ProductManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\productmodel\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0579E8-D4EC-3346-68B1-223742C55C0A}|ProductManagement.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,33 +46,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\ProductModel\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\ProductModel\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\ProductModel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAcwCAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T09:05:39.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T09:05:39.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\ProductModel\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\ProductModel\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T09:02:41.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CustomExceptionFilter.cs",
               "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\ProductModel\\Filters\\CustomExceptionFilter.cs",
               "RelativeDocumentMoniker": "Filters\\CustomExceptionFilter.cs",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Filters\\CustomExceptionFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T09:02:12.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T09:02:12.617Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "Filters\\LogActionFilter.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T09:01:49.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T09:01:49.926Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T08:58:15.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T08:58:15.269Z"
             }
           ]
         },
