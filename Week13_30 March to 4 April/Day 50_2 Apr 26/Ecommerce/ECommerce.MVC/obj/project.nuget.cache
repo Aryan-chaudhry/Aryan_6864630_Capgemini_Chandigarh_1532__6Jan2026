@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+NIs1xJgq+E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week13_30 March to 4 April\\Day 50_2 Apr 26\\Ecommerce\\Ecommerce.MVC\\ECommerce.MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ARYAN\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\10.0.5\\microsoft.aspnetcore.jsonpatch.10.0.5.nupkg.sha512",
+    "C:\\Users\\ARYAN\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\10.0.5\\microsoft.aspnetcore.mvc.newtonsoftjson.10.0.5.nupkg.sha512",
+    "C:\\Users\\ARYAN\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ARYAN\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

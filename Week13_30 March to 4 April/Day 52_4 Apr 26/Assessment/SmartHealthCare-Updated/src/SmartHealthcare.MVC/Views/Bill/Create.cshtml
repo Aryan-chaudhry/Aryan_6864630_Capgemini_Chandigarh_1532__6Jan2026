@@ -1,0 +1,123 @@
+@model SmartHealthcare.Models.DTOs.CreateBillDTO
+@{
+    ViewData["Title"] = "Generate Bill";
+    var appointment = ViewBag.Appointment as SmartHealthcare.Models.DTOs.AppointmentDTO;
+}
+
+<div class="container-fluid mt-4">
+
+    <!-- Header -->
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <div>
+            <h4 class="mb-0">Generate Bill</h4>
+            <small class="text-muted">Create billing record for appointment</small>
+        </div>
+
+        <a href="@Url.Action("Details", "Appointment", new { id = Model.AppointmentId })"
+           class="btn btn-outline-dark btn-sm">
+            Back
+        </a>
+    </div>
+
+    <!-- APPOINTMENT INFO -->
+    <div class="card border-0 shadow-sm mb-4">
+        <div class="card-body p-0 table-responsive">
+
+            <table class="table mb-0">
+                <tbody>
+                    <tr>
+                        <th>Appointment ID</th>
+                        <td>@appointment?.Id</td>
+                    </tr>
+
+                    <tr>
+                        <th>Patient</th>
+                        <td>@appointment?.PatientName</td>
+                    </tr>
+
+                    <tr>
+                        <th>Doctor</th>
+                        <td>Dr. @appointment?.DoctorName</td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+
+    <!-- BILL FORM -->
+    <form asp-action="Create" method="post">
+
+        <input type="hidden" asp-for="AppointmentId" />
+
+        <!-- BILL INPUT TABLE STYLE -->
+        <div class="card border-0 shadow-sm mb-4">
+            <div class="card-body p-0 table-responsive">
+
+                <table class="table mb-0">
+                    <tbody>
+
+                        <tr>
+                            <th style="width: 250px;">Consultation Fee</th>
+                            <td>
+                                <div class="input-group">
+                                    <span class="input-group-text">₹</span>
+                                    <input asp-for="ConsultationFee"
+                                           type="number"
+                                           step="0.01"
+                                           min="0"
+                                           class="form-control"
+                                           placeholder="Enter consultation fee" />
+                                </div>
+                                <span asp-validation-for="ConsultationFee" class="text-danger small"></span>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <th>Medicine Charges</th>
+                            <td>
+                                <div class="input-group">
+                                    <span class="input-group-text">₹</span>
+                                    <input asp-for="MedicineCharges"
+                                           type="number"
+                                           step="0.01"
+                                           min="0"
+                                           class="form-control"
+                                           placeholder="Enter medicine charges" />
+                                </div>
+                                <span asp-validation-for="MedicineCharges" class="text-danger small"></span>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <th>Payment Status</th>
+                            <td>
+                                <select asp-for="PaymentStatus" class="form-select">
+                                    <option value="Unpaid">Unpaid</option>
+                                    <option value="Paid">Paid</option>
+                                </select>
+                                <span asp-validation-for="PaymentStatus" class="text-danger small"></span>
+                            </td>
+                        </tr>
+
+                    </tbody>
+                </table>
+
+            </div>
+        </div>
+
+        <!-- ACTIONS -->
+        <div class="d-flex gap-2">
+            <button type="submit" class="btn btn-dark btn-sm px-4">
+                Generate Bill
+            </button>
+
+            <a href="@Url.Action("Details", "Appointment", new { id = Model.AppointmentId })"
+               class="btn btn-outline-secondary btn-sm px-4">
+                Cancel
+            </a>
+        </div>
+
+    </form>
+
+</div>

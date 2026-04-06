@@ -1,0 +1,80 @@
+@model SmartHealthcare.Models.DTOs.RegisterDTO
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="container-fluid min-vh-100 d-flex justify-content-center align-items-center">
+    <div class="col-md-5 col-lg-4">
+
+        <div class="card border-0 shadow rounded-4 p-4">
+
+            <!-- Header -->
+            <div class="mb-3 text-center">
+                <h4 class="mb-1">Smart Healthcare</h4>
+                <p class="mb-0">Create your account</p>
+            </div>
+
+            <!-- Form -->
+            <form asp-action="Register" method="post" novalidate>
+
+                <div asp-validation-summary="All"></div>
+
+                <!-- Full Name -->
+                <div class="mb-3">
+                    <label asp-for="FullName" class="form-label"></label>
+                    <input asp-for="FullName" class="form-control" placeholder="Enter your full name" />
+                    <span asp-validation-for="FullName"></span>
+                </div>
+
+                <!-- Email -->
+                <div class="mb-3">
+                    <label asp-for="Email" class="form-label"></label>
+                    <input asp-for="Email" class="form-control" placeholder="Enter your email" />
+                    <span asp-validation-for="Email"></span>
+                </div>
+
+                <!-- Password -->
+                <div class="mb-3">
+                    <label asp-for="Password" class="form-label"></label>
+                    <input asp-for="Password" type="password" class="form-control" placeholder="Create a password" />
+                    <span asp-validation-for="Password"></span>
+                </div>
+
+                <!-- Role -->
+                <div class="mb-3">
+                    <label asp-for="Role" class="form-label"></label>
+                    <select asp-for="Role" class="form-control">
+                        <option value="Patient">Patient</option>
+                        <option value="Doctor">Doctor</option>
+                    </select>
+                    <span asp-validation-for="Role"></span>
+                </div>
+
+                <!-- Terms -->
+                <div class="mb-3 d-flex align-items-center">
+                    <input type="checkbox" id="terms" class="me-2" required />
+                    <label for="terms" class="mb-0">I agree to Terms & Conditions</label>
+                </div>
+
+                <!-- Button -->
+                <div class="d-grid mb-3">
+                    <button type="submit" class="btn btn-dark">Register</button>
+                </div>
+
+            </form>
+
+            <!-- Footer -->
+            <div class="text-center">
+                <p class="mb-0">
+                    Already have an account?
+                    <a asp-action="Login">Login</a>
+                </p>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

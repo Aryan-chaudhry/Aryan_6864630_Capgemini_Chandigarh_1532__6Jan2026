@@ -1,0 +1,59 @@
+E:\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Week-13_30th_March_to_3rd_April_2026\Day_4_2nd_April_2026\SmartHealthCare\src\SmartHealthcare.Models\bin\Debug\net10.0\SmartHealthcare.Models.deps.json
+E:\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Week-13_30th_March_to_3rd_April_2026\Day_4_2nd_April_2026\SmartHealthCare\src\SmartHealthcare.Models\bin\Debug\net10.0\SmartHealthcare.Models.dll
+E:\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Week-13_30th_March_to_3rd_April_2026\Day_4_2nd_April_2026\SmartHealthCare\src\SmartHealthcare.Models\bin\Debug\net10.0\SmartHealthcare.Models.pdb
+E:\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Week-13_30th_March_to_3rd_April_2026\Day_4_2nd_April_2026\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Week-13_30th_March_to_3rd_April_2026\Day_4_2nd_April_2026\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.AssemblyInfoInputs.cache
+E:\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Week-13_30th_March_to_3rd_April_2026\Day_4_2nd_April_2026\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.AssemblyInfo.cs
+E:\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Week-13_30th_March_to_3rd_April_2026\Day_4_2nd_April_2026\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.csproj.CoreCompileInputs.cache
+E:\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Week-13_30th_March_to_3rd_April_2026\Day_4_2nd_April_2026\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.sourcelink.json
+E:\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Week-13_30th_March_to_3rd_April_2026\Day_4_2nd_April_2026\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.dll
+E:\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Week-13_30th_March_to_3rd_April_2026\Day_4_2nd_April_2026\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\refint\SmartHealthcare.Models.dll
+E:\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Week-13_30th_March_to_3rd_April_2026\Day_4_2nd_April_2026\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.pdb
+E:\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Capgemini_CU_Sec3_.NetWithAzure_Shivansh\Week-13_30th_March_to_3rd_April_2026\Day_4_2nd_April_2026\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\ref\SmartHealthcare.Models.dll
+E:\SmartHealthCare\src\SmartHealthcare.Models\bin\Debug\net10.0\SmartHealthcare.Models.deps.json
+E:\SmartHealthCare\src\SmartHealthcare.Models\bin\Debug\net10.0\SmartHealthcare.Models.dll
+E:\SmartHealthCare\src\SmartHealthcare.Models\bin\Debug\net10.0\SmartHealthcare.Models.pdb
+E:\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.AssemblyInfoInputs.cache
+E:\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.AssemblyInfo.cs
+E:\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.csproj.CoreCompileInputs.cache
+E:\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.dll
+E:\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\refint\SmartHealthcare.Models.dll
+E:\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.pdb
+E:\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\ref\SmartHealthcare.Models.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 73 3rd Apr 26\SmartHealthCare\src\SmartHealthcare.Models\bin\Debug\net10.0\SmartHealthcare.Models.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 73 3rd Apr 26\SmartHealthCare\src\SmartHealthcare.Models\bin\Debug\net10.0\SmartHealthcare.Models.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 73 3rd Apr 26\SmartHealthCare\src\SmartHealthcare.Models\bin\Debug\net10.0\SmartHealthcare.Models.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 73 3rd Apr 26\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 73 3rd Apr 26\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 73 3rd Apr 26\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 73 3rd Apr 26\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 73 3rd Apr 26\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.sourcelink.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 73 3rd Apr 26\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 73 3rd Apr 26\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\refint\SmartHealthcare.Models.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 73 3rd Apr 26\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 73 3rd Apr 26\SmartHealthCare\src\SmartHealthcare.Models\obj\Debug\net10.0\ref\SmartHealthcare.Models.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 74 4th Apr 26\SmartHealthCare-Updated\src\SmartHealthcare.Models\bin\Debug\net10.0\SmartHealthcare.Models.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 74 4th Apr 26\SmartHealthCare-Updated\src\SmartHealthcare.Models\bin\Debug\net10.0\SmartHealthcare.Models.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 74 4th Apr 26\SmartHealthCare-Updated\src\SmartHealthcare.Models\bin\Debug\net10.0\SmartHealthcare.Models.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 74 4th Apr 26\SmartHealthCare-Updated\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 74 4th Apr 26\SmartHealthCare-Updated\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 74 4th Apr 26\SmartHealthCare-Updated\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 74 4th Apr 26\SmartHealthCare-Updated\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 74 4th Apr 26\SmartHealthCare-Updated\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.sourcelink.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 74 4th Apr 26\SmartHealthCare-Updated\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 74 4th Apr 26\SmartHealthCare-Updated\src\SmartHealthcare.Models\obj\Debug\net10.0\refint\SmartHealthcare.Models.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 74 4th Apr 26\SmartHealthCare-Updated\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 13 (30th Mar-4th Apr)\Day 74 4th Apr 26\SmartHealthCare-Updated\src\SmartHealthcare.Models\obj\Debug\net10.0\ref\SmartHealthcare.Models.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 52_4 Apr 26\Assessment\SmartHealthCare-Updated\src\SmartHealthcare.Models\bin\Debug\net10.0\SmartHealthcare.Models.deps.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 52_4 Apr 26\Assessment\SmartHealthCare-Updated\src\SmartHealthcare.Models\bin\Debug\net10.0\SmartHealthcare.Models.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 52_4 Apr 26\Assessment\SmartHealthCare-Updated\src\SmartHealthcare.Models\bin\Debug\net10.0\SmartHealthcare.Models.pdb
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 52_4 Apr 26\Assessment\SmartHealthCare-Updated\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 52_4 Apr 26\Assessment\SmartHealthCare-Updated\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.AssemblyInfoInputs.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 52_4 Apr 26\Assessment\SmartHealthCare-Updated\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.AssemblyInfo.cs
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 52_4 Apr 26\Assessment\SmartHealthCare-Updated\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.csproj.CoreCompileInputs.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 52_4 Apr 26\Assessment\SmartHealthCare-Updated\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.sourcelink.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 52_4 Apr 26\Assessment\SmartHealthCare-Updated\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 52_4 Apr 26\Assessment\SmartHealthCare-Updated\src\SmartHealthcare.Models\obj\Debug\net10.0\refint\SmartHealthcare.Models.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 52_4 Apr 26\Assessment\SmartHealthCare-Updated\src\SmartHealthcare.Models\obj\Debug\net10.0\SmartHealthcare.Models.pdb
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 52_4 Apr 26\Assessment\SmartHealthCare-Updated\src\SmartHealthcare.Models\obj\Debug\net10.0\ref\SmartHealthcare.Models.dll

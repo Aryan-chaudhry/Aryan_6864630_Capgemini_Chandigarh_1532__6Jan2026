@@ -3510,11 +3510,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day40_20th Mar 26\\EcommerceApp\\EcommerceApp.csproj",
+      "projectUniqueName": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day42_24 Mar 26\\EcommerceApp\\EcommerceApp.csproj",
       "projectName": "EcommerceApp",
-      "projectPath": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day40_20th Mar 26\\EcommerceApp\\EcommerceApp.csproj",
+      "projectPath": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day42_24 Mar 26\\EcommerceApp\\EcommerceApp.csproj",
       "packagesPath": "C:\\Users\\ARYAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day40_20th Mar 26\\EcommerceApp\\obj\\",
+      "outputPath": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day42_24 Mar 26\\EcommerceApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Place Order</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+<body class="bg-light">
+
+    <div class="container d-flex justify-content-center align-items-center vh-100">
+
+        <div class="card shadow border-0" style="width: 380px;">
+            <div class="card-body p-4">
+
+                <h3 class="text-center mb-4">🛍️ Place Order</h3>
+
+                <form method="post">
+                    <div class="mb-3">
+                        <input name="UserId" type="number" class="form-control" placeholder="Enter User ID" required />
+                    </div>
+
+                    <div class="d-grid">
+                        <button type="submit" class="btn btn-success">
+                            Place Order
+                        </button>
+                    </div>
+                </form>
+
+                @if (ViewBag.Error != null)
+                {
+                    <div class="alert alert-danger text-center mt-3 mb-0">
+                        @ViewBag.Error
+                    </div>
+                }
+
+                <div class="text-center mt-3">
+                    <a href="/Order/Index" class="text-decoration-none">
+                        ← Back to Orders
+                    </a>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB147AA3-2F9F-5D91-BA6C-305B7E345463}|src\\SmartHealthcare.MVC\\SmartHealthcare.MVC.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 13 (30th mar-4th apr)\\day 74 4th apr 26\\smarthealthcare-updated\\src\\smarthealthcare.mvc\\views\\appointment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB147AA3-2F9F-5D91-BA6C-305B7E345463}|src\\SmartHealthcare.MVC\\SmartHealthcare.MVC.csproj|solutionrelative:src\\smarthealthcare.mvc\\views\\appointment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB147AA3-2F9F-5D91-BA6C-305B7E345463}|src\\SmartHealthcare.MVC\\SmartHealthcare.MVC.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 13 (30th mar-4th apr)\\day 74 4th apr 26\\smarthealthcare-updated\\src\\smarthealthcare.mvc\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB147AA3-2F9F-5D91-BA6C-305B7E345463}|src\\SmartHealthcare.MVC\\SmartHealthcare.MVC.csproj|solutionrelative:src\\smarthealthcare.mvc\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB147AA3-2F9F-5D91-BA6C-305B7E345463}|src\\SmartHealthcare.MVC\\SmartHealthcare.MVC.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 13 (30th mar-4th apr)\\day 74 4th apr 26\\smarthealthcare-updated\\src\\smarthealthcare.mvc\\views\\doctor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB147AA3-2F9F-5D91-BA6C-305B7E345463}|src\\SmartHealthcare.MVC\\SmartHealthcare.MVC.csproj|solutionrelative:src\\smarthealthcare.mvc\\views\\doctor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A66E78-9F51-4C8D-BA3C-186148FB9489}|src\\SmartHealthcare.API\\SmartHealthcare.API.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 13 (30th mar-4th apr)\\day 74 4th apr 26\\smarthealthcare-updated\\src\\smarthealthcare.api\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A66E78-9F51-4C8D-BA3C-186148FB9489}|src\\SmartHealthcare.API\\SmartHealthcare.API.csproj|solutionrelative:src\\smarthealthcare.api\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A66E78-9F51-4C8D-BA3C-186148FB9489}|src\\SmartHealthcare.API\\SmartHealthcare.API.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 13 (30th mar-4th apr)\\day 74 4th apr 26\\smarthealthcare-updated\\src\\smarthealthcare.api\\migrations\\20260404052331_n1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76A66E78-9F51-4C8D-BA3C-186148FB9489}|src\\SmartHealthcare.API\\SmartHealthcare.API.csproj|solutionrelative:src\\smarthealthcare.api\\migrations\\20260404052331_n1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB147AA3-2F9F-5D91-BA6C-305B7E345463}|src\\SmartHealthcare.MVC\\SmartHealthcare.MVC.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 13 (30th mar-4th apr)\\day 74 4th apr 26\\smarthealthcare-updated\\src\\smarthealthcare.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB147AA3-2F9F-5D91-BA6C-305B7E345463}|src\\SmartHealthcare.MVC\\SmartHealthcare.MVC.csproj|solutionrelative:src\\smarthealthcare.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB147AA3-2F9F-5D91-BA6C-305B7E345463}|src\\SmartHealthcare.MVC\\SmartHealthcare.MVC.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 13 (30th mar-4th apr)\\day 74 4th apr 26\\smarthealthcare-updated\\src\\smarthealthcare.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB147AA3-2F9F-5D91-BA6C-305B7E345463}|src\\SmartHealthcare.MVC\\SmartHealthcare.MVC.csproj|solutionrelative:src\\smarthealthcare.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB147AA3-2F9F-5D91-BA6C-305B7E345463}|src\\SmartHealthcare.MVC\\SmartHealthcare.MVC.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 13 (30th mar-4th apr)\\day 74 4th apr 26\\smarthealthcare-updated\\src\\smarthealthcare.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB147AA3-2F9F-5D91-BA6C-305B7E345463}|src\\SmartHealthcare.MVC\\SmartHealthcare.MVC.csproj|solutionrelative:src\\smarthealthcare.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB147AA3-2F9F-5D91-BA6C-305B7E345463}|src\\SmartHealthcare.MVC\\SmartHealthcare.MVC.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 13 (30th mar-4th apr)\\day 74 4th apr 26\\smarthealthcare-updated\\src\\smarthealthcare.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB147AA3-2F9F-5D91-BA6C-305B7E345463}|src\\SmartHealthcare.MVC\\SmartHealthcare.MVC.csproj|solutionrelative:src\\smarthealthcare.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB147AA3-2F9F-5D91-BA6C-305B7E345463}|src\\SmartHealthcare.MVC\\SmartHealthcare.MVC.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 13 (30th mar-4th apr)\\day 74 4th apr 26\\smarthealthcare-updated\\src\\smarthealthcare.mvc\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB147AA3-2F9F-5D91-BA6C-305B7E345463}|src\\SmartHealthcare.MVC\\SmartHealthcare.MVC.csproj|solutionrelative:src\\smarthealthcare.mvc\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76A66E78-9F51-4C8D-BA3C-186148FB9489}|src\\SmartHealthcare.API\\SmartHealthcare.API.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 13 (30th mar-4th apr)\\day 74 4th apr 26\\smarthealthcare-updated\\src\\smarthealthcare.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76A66E78-9F51-4C8D-BA3C-186148FB9489}|src\\SmartHealthcare.API\\SmartHealthcare.API.csproj|solutionrelative:src\\smarthealthcare.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.MVC\\Views\\Appointment\\Details.cshtml",
+              "RelativeDocumentMoniker": "src\\SmartHealthcare.MVC\\Views\\Appointment\\Details.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.MVC\\Views\\Appointment\\Details.cshtml",
+              "RelativeToolTip": "src\\SmartHealthcare.MVC\\Views\\Appointment\\Details.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAMoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T05:36:40.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.MVC\\Views\\Doctor\\Details.cshtml",
+              "RelativeDocumentMoniker": "src\\SmartHealthcare.MVC\\Views\\Doctor\\Details.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.MVC\\Views\\Doctor\\Details.cshtml",
+              "RelativeToolTip": "src\\SmartHealthcare.MVC\\Views\\Doctor\\Details.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAEwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T05:35:25.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260404052331_N1.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.API\\Migrations\\20260404052331_N1.cs",
+              "RelativeDocumentMoniker": "src\\SmartHealthcare.API\\Migrations\\20260404052331_N1.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.API\\Migrations\\20260404052331_N1.cs",
+              "RelativeToolTip": "src\\SmartHealthcare.API\\Migrations\\20260404052331_N1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T05:23:32.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.MVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "src\\SmartHealthcare.MVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.MVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "src\\SmartHealthcare.MVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T04:59:02.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "src\\SmartHealthcare.MVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "src\\SmartHealthcare.MVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T04:45:54.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "src\\SmartHealthcare.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "src\\SmartHealthcare.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T04:40:13.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.API\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "src\\SmartHealthcare.API\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.API\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "src\\SmartHealthcare.API\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwKAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T04:26:13.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\SmartHealthcare.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "src\\SmartHealthcare.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T18:00:09.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.MVC\\Views\\Appointment\\Create.cshtml",
+              "RelativeDocumentMoniker": "src\\SmartHealthcare.MVC\\Views\\Appointment\\Create.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.MVC\\Views\\Appointment\\Create.cshtml",
+              "RelativeToolTip": "src\\SmartHealthcare.MVC\\Views\\Appointment\\Create.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAACMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-03T17:59:32.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.MVC\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "src\\SmartHealthcare.MVC\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.MVC\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "src\\SmartHealthcare.MVC\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T17:58:13.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\SmartHealthcare.API\\appsettings.json",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 13 (30th Mar-4th Apr)\\Day 74 4th Apr 26\\SmartHealthCare-Updated\\src\\SmartHealthcare.API\\appsettings.json",
+              "RelativeToolTip": "src\\SmartHealthcare.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-03T16:12:55.723Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+@model SmartHealthcare.Models.DTOs.PatientDTO
+@{
+    ViewData["Title"] = "My Profile";
+    var needsProfile = ViewBag.NeedsProfile as bool? ?? false;
+}
+
+<div class="container-fluid mt-4">
+
+    <!-- HEADER -->
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <div>
+            <h4 class="mb-0">My Profile</h4>
+            <small class="text-muted">Patient information & medical details</small>
+        </div>
+
+        <a href="@Url.Action("Index", "Dashboard")" class="btn btn-outline-dark btn-sm">
+            Back
+        </a>
+    </div>
+
+    @if (needsProfile)
+    {
+        <!-- CREATE PROFILE -->
+        <div class="card border-0 shadow-sm mb-4">
+
+            <div class="card-header bg-dark text-white">
+                <strong>Complete Your Profile</strong>
+            </div>
+
+            <form asp-action="CreateProfile" method="post">
+
+                <div class="card-body p-0 table-responsive">
+
+                    <table class="table mb-0">
+                        <tbody>
+
+                            <tr>
+                                <th style="width:220px;">Date of Birth *</th>
+                                <td>
+                                    <input type="date" name="DateOfBirth" class="form-control" required />
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <th>Gender *</th>
+                                <td>
+                                    <select name="Gender" class="form-select" required>
+                                        <option value="">Select Gender</option>
+                                        <option value="Male">Male</option>
+                                        <option value="Female">Female</option>
+                                        <option value="Other">Other</option>
+                                    </select>
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <th>Blood Group</th>
+                                <td>
+                                    <input name="BloodGroup"
+                                           class="form-control"
+                                           placeholder="e.g. O+, A-, B+" />
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <th>Phone *</th>
+                                <td>
+                                    <input name="Phone" type="tel" class="form-control" required />
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <th>Address *</th>
+                                <td>
+                                    <textarea name="Address" class="form-control" rows="3" required></textarea>
+                                </td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+
+                </div>
+
+                <div class="card-footer bg-white border-0 d-flex gap-2">
+
+                    <button type="submit" class="btn btn-dark btn-sm px-4">
+                        Save Profile
+                    </button>
+
+                    <a href="@Url.Action("Index", "Dashboard")"
+                       class="btn btn-outline-secondary btn-sm px-4">
+                        Cancel
+                    </a>
+
+                </div>
+
+            </form>
+
+        </div>
+    }
+    else
+    {
+        <!-- PROFILE VIEW -->
+
+        <!-- PERSONAL -->
+        <div class="card border-0 shadow-sm mb-4">
+            <div class="card-header bg-light">
+                <strong>Personal Information</strong>
+            </div>
+
+            <div class="card-body p-0 table-responsive">
+                <table class="table mb-0">
+                    <tbody>
+                        <tr>
+                            <th>Name</th>
+                            <td>@Model.FullName</td>
+                        </tr>
+
+                        <tr>
+                            <th>Email</th>
+                            <td>@Model.Email</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- CONTACT -->
+        <div class="card border-0 shadow-sm mb-4">
+            <div class="card-header bg-light">
+                <strong>Contact Information</strong>
+            </div>
+
+            <div class="card-body p-0 table-responsive">
+                <table class="table mb-0">
+                    <tbody>
+                        <tr>
+                            <th>Phone</th>
+                            <td>@Model.Phone</td>
+                        </tr>
+
+                        <tr>
+                            <th>Address</th>
+                            <td>@Model.Address</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- MEDICAL -->
+        <div class="card border-0 shadow-sm mb-4">
+            <div class="card-header bg-light">
+                <strong>Medical Information</strong>
+            </div>
+
+            <div class="card-body p-0 table-responsive">
+                <table class="table mb-0">
+                    <tbody>
+                        <tr>
+                            <th>Date of Birth</th>
+                            <td>@Model.DateOfBirth.ToString("dd MMM yyyy")</td>
+                        </tr>
+
+                        <tr>
+                            <th>Age</th>
+                            <td>@((DateTime.Now.Year - Model.DateOfBirth.Year)) years</td>
+                        </tr>
+
+                        <tr>
+                            <th>Gender</th>
+                            <td>@Model.Gender</td>
+                        </tr>
+
+                        <tr>
+                            <th>Blood Group</th>
+                            <td>
+                                @if (!string.IsNullOrEmpty(Model.BloodGroup))
+                                {
+                                    <span class="badge bg-danger">@Model.BloodGroup</span>
+                                }
+                                else
+                                {
+                                    <span class="text-muted">Not specified</span>
+                                }
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- ACTIONS -->
+        <div class="d-flex flex-wrap gap-2">
+
+            <a href="@Url.Action("Index", "Appointment")" class="btn btn-dark btn-sm">
+                Book Appointment
+            </a>
+
+            <a href="@Url.Action("Index", "Doctor")" class="btn btn-dark btn-sm">
+                Find Doctor
+            </a>
+
+            <a href="@Url.Action("MedicalHistory")" class="btn btn-dark btn-sm">
+                Medical History
+            </a>
+
+        </div>
+    }
+
+</div>

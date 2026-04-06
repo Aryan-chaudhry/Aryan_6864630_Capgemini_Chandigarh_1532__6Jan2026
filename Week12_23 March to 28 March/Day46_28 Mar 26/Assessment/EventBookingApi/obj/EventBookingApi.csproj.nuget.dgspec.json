@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week12(23rd-28th March)\\Assessment\\EventBookingApi\\EventBookingApi.csproj": {}
+    "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day46_28 Mar 26\\Assessment\\EventBookingApi\\EventBookingApi.csproj": {}
   },
   "projects": {
-    "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week12(23rd-28th March)\\Assessment\\EventBookingApi\\EventBookingApi.csproj": {
+    "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day46_28 Mar 26\\Assessment\\EventBookingApi\\EventBookingApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week12(23rd-28th March)\\Assessment\\EventBookingApi\\EventBookingApi.csproj",
+        "projectUniqueName": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day46_28 Mar 26\\Assessment\\EventBookingApi\\EventBookingApi.csproj",
         "projectName": "EventBookingApi",
-        "projectPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week12(23rd-28th March)\\Assessment\\EventBookingApi\\EventBookingApi.csproj",
-        "packagesPath": "C:\\Users\\sargam\\.nuget\\packages\\",
-        "outputPath": "D:\\sargam\\dotNet\\Sargam_CU_Capegemini\\Daywise HandsOn\\Week12(23rd-28th March)\\Assessment\\EventBookingApi\\obj\\",
+        "projectPath": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day46_28 Mar 26\\Assessment\\EventBookingApi\\EventBookingApi.csproj",
+        "packagesPath": "C:\\Users\\ARYAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week12_23 March to 28 March\\Day46_28 Mar 26\\Assessment\\EventBookingApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sargam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ARYAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -53,6 +53,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
@@ -104,7 +108,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

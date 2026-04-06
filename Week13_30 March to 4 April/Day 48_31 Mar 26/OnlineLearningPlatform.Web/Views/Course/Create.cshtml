@@ -1,0 +1,36 @@
+@{
+    ViewData["Title"] = "Create Course";
+}
+
+<div class="container d-flex justify-content-center mt-5">
+    <div class="card shadow border-0 rounded-4 p-4" style="width: 500px;">
+
+        <h2 class="text-center mb-4">Create Course</h2>
+
+        <form method="post">
+            <label class="mb-1">Title</label>
+            <input
+                name="title"
+                class="form-control"
+                required />
+
+            <br />
+
+            <label class="mb-1">Description</label>
+            <textarea
+                name="description"
+                class="form-control"
+                rows="4"
+                required></textarea>
+
+            <br />
+
+            <button
+                class="btn btn-primary w-100"
+                type="submit">
+                Create
+            </button>
+        </form>
+
+    </div>
+</div>

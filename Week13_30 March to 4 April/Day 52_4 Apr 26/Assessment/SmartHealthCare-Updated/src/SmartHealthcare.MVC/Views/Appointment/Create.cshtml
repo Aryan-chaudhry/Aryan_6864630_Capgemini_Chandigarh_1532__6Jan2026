@@ -1,0 +1,89 @@
+@model SmartHealthcare.Models.DTOs.CreateAppointmentDTO
+@{
+    ViewData["Title"] = "Book Appointment";
+    var doctors = ViewBag.Doctors as IEnumerable<SmartHealthcare.Models.DTOs.DoctorDTO> ?? Enumerable.Empty<SmartHealthcare.Models.DTOs.DoctorDTO>();
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+
+            <!-- Back -->
+            <a href="@Url.Action("Index")" class="btn btn-outline-secondary btn-sm mb-3">
+                Back
+            </a>
+
+            <!-- Card -->
+            <div class="card border-0 shadow-sm">
+                <div class="card-body p-4">
+
+                    <h5 class="mb-3">Book Appointment</h5>
+
+                    <form asp-action="Create" method="post" novalidate>
+
+                        
+
+                        <!-- Doctor -->
+                        <div class="mb-3">
+                            <label asp-for="DoctorId" class="form-label"></label>
+                            <select asp-for="DoctorId" class="form-control">
+                                <option value="">Select Doctor</option>
+
+                                @foreach (var doctor in doctors)
+                                {
+                                    <option value="@doctor.Id">
+                                        Dr. @doctor.FullName
+                                    </option>
+                                }
+                            </select>
+                            <span asp-validation-for="DoctorId"></span>
+                        </div>
+
+                        <!-- Date -->
+                        <div class="mb-3">
+                            <label asp-for="AppointmentDate" class="form-label"></label>
+                            <input asp-for="AppointmentDate" type="datetime-local" class="form-control" />
+                            <span asp-validation-for="AppointmentDate"></span>
+                        </div>
+
+                        <!-- Notes -->
+                        <div class="mb-3">
+                            <label asp-for="Notes" class="form-label"></label>
+                            <textarea asp-for="Notes" rows="3" class="form-control"
+                                      placeholder="Optional notes..."></textarea>
+                            <span asp-validation-for="Notes"></span>
+                        </div>
+
+                        <!-- Buttons -->
+                        <div class="d-flex justify-content-between">
+                            <a href="@Url.Action("Index")" class="btn btn-outline-secondary">
+                                Cancel
+                            </a>
+                            <button type="submit" class="btn btn-dark">
+                                Book
+                            </button>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+
+            <!-- Info -->
+            <div class="card border-0 shadow-sm mt-3">
+                <div class="card-body">
+                    <h6 class="mb-2">Note</h6>
+                    <ul class="small text-muted mb-0">
+                        <li>Arrive 10 minutes early</li>
+                        <li>Bring required documents</li>
+                        <li>Cancel at least 24 hours before</li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

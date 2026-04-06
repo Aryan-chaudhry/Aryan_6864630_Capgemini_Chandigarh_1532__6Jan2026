@@ -1,0 +1,71 @@
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/bin/Debug/net8.0/appsettings.Development.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/bin/Debug/net8.0/appsettings.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/bin/Debug/net8.0/OnlineLearningPlatform.Web.staticwebassets.runtime.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/bin/Debug/net8.0/OnlineLearningPlatform.Web
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/bin/Debug/net8.0/OnlineLearningPlatform.Web.deps.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/bin/Debug/net8.0/OnlineLearningPlatform.Web.runtimeconfig.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/bin/Debug/net8.0/OnlineLearningPlatform.Web.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/bin/Debug/net8.0/OnlineLearningPlatform.Web.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/OnlineLearningPlatform.Web.csproj.AssemblyReference.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/OnlineLearningPlatform.Web.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/OnlineLearningPlatform.Web.AssemblyInfoInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/OnlineLearningPlatform.Web.AssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/OnlineLearningPlatform.Web.csproj.CoreCompileInputs.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/OnlineLearningPlatform.Web.MvcApplicationPartsAssemblyInfo.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/OnlineLearningPlatform.Web.RazorAssemblyInfo.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/OnlineLearningPlatform.Web.RazorAssemblyInfo.cs
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/OnlineLearningPlatform.Web.sourcelink.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/staticwebassets.build.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/staticwebassets.development.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/staticwebassets/msbuild.OnlineLearningPlatform.Web.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/staticwebassets/msbuild.build.OnlineLearningPlatform.Web.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.OnlineLearningPlatform.Web.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.OnlineLearningPlatform.Web.props
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/scopedcss/bundle/OnlineLearningPlatform.Web.styles.css
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/scopedcss/projectbundle/OnlineLearningPlatform.Web.bundle.scp.css
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/OnlineLe.5CE0182D.Up2Date
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/OnlineLearningPlatform.Web.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/refint/OnlineLearningPlatform.Web.dll
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/OnlineLearningPlatform.Web.pdb
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/OnlineLearningPlatform.Web.genruntimeconfig.cache
+/Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 13/Day2_31Mar26/OnlineLearningPlatform.Web/obj/Debug/net8.0/ref/OnlineLearningPlatform.Web.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\bin\Debug\net8.0\OnlineLearningPlatform.Web.staticwebassets.runtime.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\bin\Debug\net8.0\OnlineLearningPlatform.Web.staticwebassets.endpoints.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\bin\Debug\net8.0\OnlineLearningPlatform.Web.exe
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\bin\Debug\net8.0\OnlineLearningPlatform.Web.deps.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\bin\Debug\net8.0\OnlineLearningPlatform.Web.runtimeconfig.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\bin\Debug\net8.0\OnlineLearningPlatform.Web.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\bin\Debug\net8.0\OnlineLearningPlatform.Web.pdb
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\OnlineLearningPlatform.Web.csproj.AssemblyReference.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\OnlineLearningPlatform.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\OnlineLearningPlatform.Web.AssemblyInfoInputs.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\OnlineLearningPlatform.Web.AssemblyInfo.cs
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\OnlineLearningPlatform.Web.csproj.CoreCompileInputs.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\OnlineLearningPlatform.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\OnlineLearningPlatform.Web.RazorAssemblyInfo.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\OnlineLearningPlatform.Web.RazorAssemblyInfo.cs
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\OnlineLearningPlatform.Web.sourcelink.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\scopedcss\bundle\OnlineLearningPlatform.Web.styles.css
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\scopedcss\projectbundle\OnlineLearningPlatform.Web.bundle.scp.css
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\OnlineLe.5CE0182D.Up2Date
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\OnlineLearningPlatform.Web.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\refint\OnlineLearningPlatform.Web.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\OnlineLearningPlatform.Web.pdb
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\OnlineLearningPlatform.Web.genruntimeconfig.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 48_31 Mar 26\OnlineLearningPlatform.Web\obj\Debug\net8.0\ref\OnlineLearningPlatform.Web.dll

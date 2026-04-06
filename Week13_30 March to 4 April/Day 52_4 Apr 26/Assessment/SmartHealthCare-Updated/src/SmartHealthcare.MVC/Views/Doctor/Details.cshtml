@@ -1,0 +1,139 @@
+@model SmartHealthcare.Models.DTOs.DoctorDTO
+@{
+    ViewData["Title"] = "Doctor Profile";
+}
+
+<div class="container-fluid mt-4">
+
+    <!-- HEADER -->
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <div>
+            <h4 class="mb-0">Dr. @Model.FullName</h4>
+            <small class="text-muted">
+                @string.Join(" | ", Model.Specializations ?? new List<string>())
+            </small>
+        </div>
+
+        <a href="@Url.Action("Index")" class="btn btn-outline-dark btn-sm">
+            Back
+        </a>
+    </div>
+
+    <!-- STATUS -->
+    <div class="card border-0 shadow-sm mb-4">
+        <div class="card-body p-0 table-responsive">
+
+            <table class="table mb-0">
+                <tbody>
+                    <tr>
+                        <th>Status</th>
+                        <td>
+                            <span class="badge bg-@(Model.IsAvailable ? "success" : "danger")">
+                                @(Model.IsAvailable ? "Available" : "Unavailable")
+                            </span>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <th>License Number</th>
+                        <td>@Model.LicenseNumber</td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+
+    <!-- CONTACT INFO -->
+    <div class="card border-0 shadow-sm mb-4">
+        <div class="card-header bg-light">
+            <strong>Contact Information</strong>
+        </div>
+
+        <div class="card-body p-0 table-responsive">
+
+            <table class="table mb-0">
+                <tbody>
+                    <tr>
+                        <th>Email</th>
+                        <td>
+                            <a href="mailto:@Model.Email">@Model.Email</a>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <th>Phone</th>
+                        <td>
+                            <a href="tel:@Model.Phone">@Model.Phone</a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+
+    <!-- PROFESSIONAL INFO -->
+    <div class="card border-0 shadow-sm mb-4">
+        <div class="card-header bg-light">
+            <strong>Professional Details</strong>
+        </div>
+
+        <div class="card-body p-0 table-responsive">
+
+            <table class="table mb-0">
+                <tbody>
+
+                    <tr>
+                        <th>Years of Experience</th>
+                        <td>@Model.YearsOfExperience years</td>
+                    </tr>
+
+                    <tr>
+                        <th>Consultation Fee</th>
+                        <td>₹@Model.ConsultationFee</td>
+                    </tr>
+
+                    <tr>
+                        <th>Specializations</th>
+                        <td>
+                            @if (Model.Specializations != null && Model.Specializations.Any())
+                            {
+                                foreach (var spec in Model.Specializations)
+                                {
+                                    <span class="badge bg-info me-1 mb-1">@spec</span>
+                                }
+                            }
+                            else
+                            {
+                                <span class="text-muted">Not specified</span>
+                            }
+                        </td>
+                    </tr>
+
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+
+    <!-- ACTIONS -->
+    <div class="d-flex gap-2">
+
+        @if (Model.IsAvailable)
+        {
+            <a asp-controller="Appointment"
+               asp-action="Create"
+               class="btn btn-dark btn-sm">
+                Book Appointment
+            </a>
+        }
+
+        <a href="@Url.Action("Index")"
+           class="btn btn-outline-secondary btn-sm">
+            Back
+        </a>
+
+    </div>
+
+</div>

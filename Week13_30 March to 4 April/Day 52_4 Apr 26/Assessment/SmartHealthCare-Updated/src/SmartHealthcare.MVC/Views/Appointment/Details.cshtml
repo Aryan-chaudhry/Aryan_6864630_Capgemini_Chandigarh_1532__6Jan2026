@@ -1,0 +1,201 @@
+@model SmartHealthcare.Models.DTOs.AppointmentDTO
+@{
+    ViewData["Title"] = "Appointment Details";
+    var prescription = ViewBag.Prescription as SmartHealthcare.Models.DTOs.PrescriptionDTO;
+    var bill = ViewBag.Bill as SmartHealthcare.Models.DTOs.BillDTO;
+    var role = ViewBag.Role as string;
+}
+
+<div class="container-fluid mt-4">
+
+    <!-- Header -->
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <div>
+            <h4 class="mb-0">Appointment #@Model.Id</h4>
+            <small class="text-muted">Detailed information</small>
+        </div>
+
+        <a href="@Url.Action("Index")" class="btn btn-outline-dark btn-sm">
+            Back
+        </a>
+    </div>
+
+    <!-- MAIN INFO TABLE STYLE -->
+    <div class="card border-0 shadow-sm mb-4">
+        <div class="card-body p-0 table-responsive">
+
+            <table class="table mb-0">
+                <tbody>
+
+                    <tr>
+                        <th>Status</th>
+                        <td>
+                            <span class="badge bg-@GetStatusBg(Model.Status)">
+                                @Model.Status
+                            </span>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <th>Patient</th>
+                        <td>@Model.PatientName</td>
+                    </tr>
+
+                    <tr>
+                        <th>Doctor</th>
+                        <td>Dr. @Model.DoctorName</td>
+                    </tr>
+
+                    <tr>
+                        <th>Appointment Date</th>
+                        <td>@Model.AppointmentDate.ToString("dd MMM yyyy, hh:mm tt")</td>
+                    </tr>
+
+                    <tr>
+                        <th>Created</th>
+                        <td>@Model.CreatedAt.ToString("dd MMM yyyy, hh:mm tt")</td>
+                    </tr>
+
+                    <tr>
+                        <th>Notes</th>
+                        <td>
+                            @(string.IsNullOrEmpty(Model.Notes) ? "No notes available" : Model.Notes)
+                        </td>
+                    </tr>
+
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+
+    <!-- PRESCRIPTION -->
+    <div class="card border-0 shadow-sm mb-4">
+        <div class="card-header bg-light d-flex justify-content-between align-items-center">
+            <strong>Prescription</strong>
+
+            @if (role == "Doctor" && prescription == null)
+            {
+                <a class="btn btn-dark btn-sm"
+                   href="@Url.Action("Create", "Prescription", new { appointmentId = Model.Id })">
+                    Add
+                </a>
+            }
+        </div>
+
+        <div class="card-body">
+
+            @if (prescription != null)
+            {
+                <p class="mb-1"><strong>Diagnosis:</strong> @prescription.Diagnosis</p>
+                <p class="mb-1"><strong>Created:</strong> @prescription.CreatedAt.ToString("dd MMM yyyy, hh:mm tt")</p>
+
+                @if (!string.IsNullOrEmpty(prescription.Notes))
+                {
+                    <p class="mb-2"><strong>Notes:</strong> @prescription.Notes</p>
+                }
+
+                @if (prescription.Medicines.Any())
+                {
+                    <table class="table table-sm table-bordered mt-3">
+                        <thead class="table-light">
+                            <tr>
+                                <th>Name</th>
+                                <th>Dosage</th>
+                                <th>Duration</th>
+                                <th>Instructions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var m in prescription.Medicines)
+                            {
+                                <tr>
+                                    <td>@m.Name</td>
+                                    <td>@m.Dosage</td>
+                                    <td>@m.Duration</td>
+                                    <td>@m.Instructions</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+            }
+            else
+            {
+                <p class="text-muted mb-0">No prescription available</p>
+            }
+
+        </div>
+    </div>
+
+    <!-- BILL -->
+    <div class="card border-0 shadow-sm">
+        <div class="card-header bg-light d-flex justify-content-between align-items-center">
+            <strong>Bill</strong>
+
+            @if ((role == "Admin" || role == "Doctor") && bill == null)
+            {
+                <a class="btn btn-dark btn-sm"
+                   href="@Url.Action("Create", "Bill", new { appointmentId = Model.Id })">
+                    Generate
+                </a>
+            }
+        </div>
+
+        <div class="card-body">
+
+            @if (bill != null)
+            {
+                <table class="table table-bordered">
+                    <tbody>
+                        <tr>
+                            <th>Consultation Fee</th>
+                            <td>$@bill.ConsultationFee.ToString("F2")</td>
+                        </tr>
+                        <tr>
+                            <th>Medicine Charges</th>
+                            <td>$@bill.MedicineCharges.ToString("F2")</td>
+                        </tr>
+                        <tr>
+                            <th>Total</th>
+                            <td class="fw-bold text-success">
+                                $@bill.Total.ToString("F2")
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Payment Status</th>
+                            <td>
+                                <span class="badge bg-@(bill.PaymentStatus == "Paid" ? "success" : "warning")">
+                                    @bill.PaymentStatus
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Created</th>
+                            <td>@bill.CreatedAt.ToString("dd MMM yyyy, hh:mm tt")</td>
+                        </tr>
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <p class="text-muted mb-0">No bill generated</p>
+            }
+
+        </div>
+    </div>
+
+</div>
+
+@functions {
+    private string GetStatusBg(string status)
+    {
+        return status?.ToLower() switch
+        {
+            "pending" => "warning",
+            "completed" => "success",
+            "cancelled" => "danger",
+            _ => "secondary"
+        };
+    }
+}

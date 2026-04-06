@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3xCBPDc3xSQ590oIqTcbaNdJ2PcQLHzlrIHlAdA6jMM=",
+  "Source": "OnlineLearningPlatform.API",
+  "BasePath": "_content/OnlineLearningPlatform.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

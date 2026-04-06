@@ -1,0 +1,7 @@
+C:\Publish\TransactionApp\TransactionClient.exe
+C:\Publish\TransactionApp\appsettings.Development.json
+C:\Publish\TransactionApp\appsettings.json
+C:\Publish\TransactionApp\TransactionClient.dll
+C:\Publish\TransactionApp\TransactionClient.deps.json
+C:\Publish\TransactionApp\TransactionClient.runtimeconfig.json
+C:\Publish\TransactionApp\TransactionClient.pdb

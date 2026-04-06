@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlinePlatformApi", "OnlinePlatformApi\OnlinePlatformApi.csproj", "{487CED6F-6B28-7B57-E34B-569E1767D51C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlinePlatformUi", "OnlinePlatformUi\OnlinePlatformUi.csproj", "{4C13D2BC-EE84-5A33-B641-3EFF6EA16273}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{487CED6F-6B28-7B57-E34B-569E1767D51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487CED6F-6B28-7B57-E34B-569E1767D51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487CED6F-6B28-7B57-E34B-569E1767D51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487CED6F-6B28-7B57-E34B-569E1767D51C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C13D2BC-EE84-5A33-B641-3EFF6EA16273}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C13D2BC-EE84-5A33-B641-3EFF6EA16273}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C13D2BC-EE84-5A33-B641-3EFF6EA16273}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C13D2BC-EE84-5A33-B641-3EFF6EA16273}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0CEB36E-F389-4ACA-85E1-D20DC1B1C262}
+	EndGlobalSection
+EndGlobal

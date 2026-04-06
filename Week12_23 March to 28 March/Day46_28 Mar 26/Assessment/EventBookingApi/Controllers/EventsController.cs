@@ -17,24 +17,24 @@ public class EventsController : ControllerBase
 
     
 
-    [Authorize]
-    [HttpPost]
-    public IActionResult CreateEvent(EventDto dto)
+   [Authorize(Roles = "Admin")]
+[HttpPost]
+public IActionResult CreateEvent(EventDto dto)
+{
+    var ev = new Event
     {
-        var ev = new Event
-        {
-            Title = dto.Title,
-            Date = dto.Date,
-            Location = dto.Location,
-            AvailableSeats = 100,
-            Description = "New Event"
-        };
+        Title = dto.Title,
+        Description = dto.Description,
+        Date = dto.Date,
+        Location = dto.Location,
+        AvailableSeats = dto.AvailableSeats
+    };
 
-        _context.Events.Add(ev);
-        _context.SaveChanges();
+    _context.Events.Add(ev);
+    _context.SaveChanges();
 
-        return Ok("Event Created");
-    }
+    return Ok(new { message = "Event Created Successfully", eventId = ev.Id });
+}
 
     [HttpGet]
     public IActionResult GetEvents()

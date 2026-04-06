@@ -1,0 +1,92 @@
+@model IEnumerable<dynamic>
+@{
+    ViewData["Title"] = "My Billing";
+}
+
+<div class="container-fluid mt-4">
+
+    <!-- HEADER -->
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <div>
+            <h4 class="mb-0">My Billing</h4>
+            <small class="text-muted">All your medical bills</small>
+        </div>
+
+        <a href="@Url.Action("Profile")" class="btn btn-outline-dark btn-sm">
+            Back
+        </a>
+    </div>
+
+    @if (Model.Any())
+    {
+        @foreach (var item in Model)
+        {
+            var appointment = item.Appointment as SmartHealthcare.Models.DTOs.AppointmentDTO;
+            var bill = item.Bill as SmartHealthcare.Models.DTOs.BillDTO;
+
+            <!-- BILL HEADER -->
+            <div class="card border-0 shadow-sm mb-3">
+
+                <div class="card-header bg-light d-flex justify-content-between align-items-center">
+                    <div>
+                        <strong>Appointment #@appointment.Id</strong><br />
+                        <small class="text-muted">
+                            Dr. @appointment.DoctorName •
+                            @appointment.AppointmentDate.ToString("dd MMM yyyy")
+                        </small>
+                    </div>
+
+                    <span class="badge bg-@(bill.PaymentStatus == "Paid" ? "success" : "warning")">
+                        @bill.PaymentStatus
+                    </span>
+                </div>
+
+                <!-- TABLE BODY -->
+                <div class="card-body p-0 table-responsive">
+
+                    <table class="table mb-0">
+                        <tbody>
+
+                            <tr>
+                                <th>Consultation Fee</th>
+                                <td>₹@bill.ConsultationFee.ToString("F2")</td>
+                            </tr>
+
+                            <tr>
+                                <th>Medicine Charges</th>
+                                <td>₹@bill.MedicineCharges.ToString("F2")</td>
+                            </tr>
+
+                            <tr>
+                                <th>Total</th>
+                                <td class="fw-bold text-success">
+                                    ₹@bill.Total.ToString("F2")
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <th>Created On</th>
+                                <td>@bill.CreatedAt.ToString("dd MMM yyyy HH:mm")</td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+
+                </div>
+
+            </div>
+        }
+    }
+    else
+    {
+        <!-- EMPTY STATE -->
+        <div class="text-center mt-5">
+            <i class="bi bi-receipt-x display-4 text-muted"></i>
+            <h4 class="mt-3 text-muted">No Bills Found</h4>
+            <p class="text-muted">
+                Your appointment bills will appear here once they are generated.
+            </p>
+        </div>
+    }
+
+</div>

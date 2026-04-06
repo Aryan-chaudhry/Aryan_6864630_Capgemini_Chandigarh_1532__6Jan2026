@@ -1,0 +1,68 @@
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\bin\Debug\net10.0\OrderAPI.staticwebassets.endpoints.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\bin\Debug\net10.0\OrderAPI.exe
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\bin\Debug\net10.0\OrderAPI.deps.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\bin\Debug\net10.0\OrderAPI.runtimeconfig.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\bin\Debug\net10.0\OrderAPI.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\bin\Debug\net10.0\OrderAPI.pdb
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\OrderAPI.csproj.AssemblyReference.cache
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\OrderAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\OrderAPI.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\OrderAPI.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\OrderAPI.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\OrderAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\OrderAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\OrderAPI.sourcelink.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\scopedcss\bundle\OrderAPI.styles.css
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\staticwebassets.build.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\staticwebassets.development.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\swae.build.ex.cache
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\OrderAPI.csproj.Up2Date
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\OrderAPI.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\refint\OrderAPI.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\OrderAPI.pdb
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\OrderAPI.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week13_30.03.2026 to 4.04.2026\1 April\OrderAPI\src\OrderAPI\obj\Debug\net10.0\ref\OrderAPI.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\bin\Debug\net10.0\OrderAPI.staticwebassets.endpoints.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\bin\Debug\net10.0\OrderAPI.exe
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\bin\Debug\net10.0\OrderAPI.deps.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\bin\Debug\net10.0\OrderAPI.runtimeconfig.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\bin\Debug\net10.0\OrderAPI.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\bin\Debug\net10.0\OrderAPI.pdb
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\OrderAPI.csproj.AssemblyReference.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\OrderAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\OrderAPI.AssemblyInfoInputs.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\OrderAPI.AssemblyInfo.cs
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\OrderAPI.csproj.CoreCompileInputs.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\OrderAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\OrderAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\OrderAPI.sourcelink.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\scopedcss\bundle\OrderAPI.styles.css
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\OrderAPI.csproj.Up2Date
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\OrderAPI.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\refint\OrderAPI.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\OrderAPI.pdb
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\OrderAPI.genruntimeconfig.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week13_30 March to 4 April\Day 49_1 Apr 26\OrderApi\src\OrderAPI\obj\Debug\net10.0\ref\OrderAPI.dll

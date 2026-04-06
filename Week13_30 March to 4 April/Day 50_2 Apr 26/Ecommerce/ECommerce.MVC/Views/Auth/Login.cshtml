@@ -1,0 +1,40 @@
+@model LoginViewModel
+
+<div class="container d-flex justify-content-center align-items-center vh-100">
+
+    <div class="card shadow border-0" style="width: 380px;">
+        <div class="card-body p-4">
+
+            <h3 class="text-center mb-4">🛒 ECommerce Login</h3>
+
+            <form method="post">
+                <div class="mb-3">
+                    <input class="form-control" asp-for="Username" placeholder="Username" />
+                </div>
+
+                <div class="mb-3">
+                    <input class="form-control" asp-for="Password" type="password" placeholder="Password" />
+                </div>
+
+                <div class="d-grid">
+                    <button class="btn btn-dark" type="submit">
+                        Login
+                    </button>
+                </div>
+            </form>
+
+            @if (ViewBag.Error != null)
+            {
+                <div class="alert alert-danger text-center mt-3 mb-0">
+                    @ViewBag.Error
+                </div>
+            }
+
+            <p class="text-center text-muted mt-3 mb-0" style="font-size: 14px;">
+                Admin: admin/123 | User: user/123
+            </p>
+
+        </div>
+    </div>
+
+</div>
